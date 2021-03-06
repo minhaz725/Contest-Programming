@@ -3,6 +3,11 @@ project(CPP_Contest)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CPP_Contest main.cpp CSES_Weird_Algorithm.cpp CSES_Missing_Number.cpp)
+add_executable(CPP_Contest main.cpp CSES_Weird_Algorithm.cpp CSES_Missing_Number.cpp CSES_Repitations.cpp CSES_Increasing_Array.cpp CSES_Permutations.cpp CF_Planet_Lapituletti.cpp CSES_Number_Spiral.cpp)
 add_executable(CSES_Weird_Algorithm CSES_Weird_Algorithm.cpp)
 add_executable(CSES_Missing_Number CSES_Missing_Number.cpp)
+add_executable(CSES_Repitations CSES_Repitations.cpp)
+add_executable(CSES_Increasing_Array CSES_Increasing_Array.cpp)
+add_executable(CSES_Permutations CSES_Permutations.cpp)
+add_executable(CF_Planet_Lapituletti CF_Planet_Lapituletti.cpp)
+add_executable(CSES_Number_Spiral CSES_Number_Spiral.cpp)

@@ -75,17 +75,6 @@ CMAKE_BINARY_DIR = "F:\CPP Contest\cmake-build-debug"
 #=============================================================================
 # Targets provided globally by CMake.
 
-# Special rule for the target rebuild_cache
-rebuild_cache:
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
-	E:\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
-.PHONY : rebuild_cache
-
-# Special rule for the target rebuild_cache
-rebuild_cache/fast: rebuild_cache
-
-.PHONY : rebuild_cache/fast
-
 # Special rule for the target edit_cache
 edit_cache:
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "No interactive CMake dialog available..."
@@ -96,6 +85,17 @@ edit_cache:
 edit_cache/fast: edit_cache
 
 .PHONY : edit_cache/fast
+
+# Special rule for the target rebuild_cache
+rebuild_cache:
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --cyan "Running CMake to regenerate build system..."
+	E:\apps\CLion\ch-0\203.7148.70\bin\cmake\win\bin\cmake.exe --regenerate-during-build -S$(CMAKE_SOURCE_DIR) -B$(CMAKE_BINARY_DIR)
+.PHONY : rebuild_cache
+
+# Special rule for the target rebuild_cache
+rebuild_cache/fast: rebuild_cache
+
+.PHONY : rebuild_cache/fast
 
 # The main all target
 all: cmake_check_build_system
@@ -143,6 +143,45 @@ CPP_Contest/fast:
 .PHONY : CPP_Contest/fast
 
 #=============================================================================
+# Target rules for targets named CSES_Increasing_Array
+
+# Build rule for target.
+CSES_Increasing_Array: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Increasing_Array
+.PHONY : CSES_Increasing_Array
+
+# fast build rule for target.
+CSES_Increasing_Array/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/build
+.PHONY : CSES_Increasing_Array/fast
+
+#=============================================================================
+# Target rules for targets named CSES_Number_Spiral
+
+# Build rule for target.
+CSES_Number_Spiral: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Number_Spiral
+.PHONY : CSES_Number_Spiral
+
+# fast build rule for target.
+CSES_Number_Spiral/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/build
+.PHONY : CSES_Number_Spiral/fast
+
+#=============================================================================
+# Target rules for targets named CF_Planet_Lapituletti
+
+# Build rule for target.
+CF_Planet_Lapituletti: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CF_Planet_Lapituletti
+.PHONY : CF_Planet_Lapituletti
+
+# fast build rule for target.
+CF_Planet_Lapituletti/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/build
+.PHONY : CF_Planet_Lapituletti/fast
+
+#=============================================================================
 # Target rules for targets named CSES_Weird_Algorithm
 
 # Build rule for target.
@@ -167,6 +206,92 @@ CSES_Missing_Number: cmake_check_build_system
 CSES_Missing_Number/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/build
 .PHONY : CSES_Missing_Number/fast
+
+#=============================================================================
+# Target rules for targets named CSES_Repitations
+
+# Build rule for target.
+CSES_Repitations: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Repitations
+.PHONY : CSES_Repitations
+
+# fast build rule for target.
+CSES_Repitations/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/build
+.PHONY : CSES_Repitations/fast
+
+#=============================================================================
+# Target rules for targets named CSES_Permutations
+
+# Build rule for target.
+CSES_Permutations: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Permutations
+.PHONY : CSES_Permutations
+
+# fast build rule for target.
+CSES_Permutations/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/build
+.PHONY : CSES_Permutations/fast
+
+CF_Planet_Lapituletti.obj: CF_Planet_Lapituletti.cpp.obj
+
+.PHONY : CF_Planet_Lapituletti.obj
+
+# target to build an object file
+CF_Planet_Lapituletti.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj
+.PHONY : CF_Planet_Lapituletti.cpp.obj
+
+CF_Planet_Lapituletti.i: CF_Planet_Lapituletti.cpp.i
+
+.PHONY : CF_Planet_Lapituletti.i
+
+# target to preprocess a source file
+CF_Planet_Lapituletti.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.i
+.PHONY : CF_Planet_Lapituletti.cpp.i
+
+CF_Planet_Lapituletti.s: CF_Planet_Lapituletti.cpp.s
+
+.PHONY : CF_Planet_Lapituletti.s
+
+# target to generate assembly for a file
+CF_Planet_Lapituletti.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.s
+.PHONY : CF_Planet_Lapituletti.cpp.s
+
+CSES_Increasing_Array.obj: CSES_Increasing_Array.cpp.obj
+
+.PHONY : CSES_Increasing_Array.obj
+
+# target to build an object file
+CSES_Increasing_Array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.obj
+.PHONY : CSES_Increasing_Array.cpp.obj
+
+CSES_Increasing_Array.i: CSES_Increasing_Array.cpp.i
+
+.PHONY : CSES_Increasing_Array.i
+
+# target to preprocess a source file
+CSES_Increasing_Array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.i
+.PHONY : CSES_Increasing_Array.cpp.i
+
+CSES_Increasing_Array.s: CSES_Increasing_Array.cpp.s
+
+.PHONY : CSES_Increasing_Array.s
+
+# target to generate assembly for a file
+CSES_Increasing_Array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.s
+.PHONY : CSES_Increasing_Array.cpp.s
 
 CSES_Missing_Number.obj: CSES_Missing_Number.cpp.obj
 
@@ -197,6 +322,96 @@ CSES_Missing_Number.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.s
 .PHONY : CSES_Missing_Number.cpp.s
+
+CSES_Number_Spiral.obj: CSES_Number_Spiral.cpp.obj
+
+.PHONY : CSES_Number_Spiral.obj
+
+# target to build an object file
+CSES_Number_Spiral.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj
+.PHONY : CSES_Number_Spiral.cpp.obj
+
+CSES_Number_Spiral.i: CSES_Number_Spiral.cpp.i
+
+.PHONY : CSES_Number_Spiral.i
+
+# target to preprocess a source file
+CSES_Number_Spiral.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.i
+.PHONY : CSES_Number_Spiral.cpp.i
+
+CSES_Number_Spiral.s: CSES_Number_Spiral.cpp.s
+
+.PHONY : CSES_Number_Spiral.s
+
+# target to generate assembly for a file
+CSES_Number_Spiral.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.s
+.PHONY : CSES_Number_Spiral.cpp.s
+
+CSES_Permutations.obj: CSES_Permutations.cpp.obj
+
+.PHONY : CSES_Permutations.obj
+
+# target to build an object file
+CSES_Permutations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj
+.PHONY : CSES_Permutations.cpp.obj
+
+CSES_Permutations.i: CSES_Permutations.cpp.i
+
+.PHONY : CSES_Permutations.i
+
+# target to preprocess a source file
+CSES_Permutations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.i
+.PHONY : CSES_Permutations.cpp.i
+
+CSES_Permutations.s: CSES_Permutations.cpp.s
+
+.PHONY : CSES_Permutations.s
+
+# target to generate assembly for a file
+CSES_Permutations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.s
+.PHONY : CSES_Permutations.cpp.s
+
+CSES_Repitations.obj: CSES_Repitations.cpp.obj
+
+.PHONY : CSES_Repitations.obj
+
+# target to build an object file
+CSES_Repitations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj
+.PHONY : CSES_Repitations.cpp.obj
+
+CSES_Repitations.i: CSES_Repitations.cpp.i
+
+.PHONY : CSES_Repitations.i
+
+# target to preprocess a source file
+CSES_Repitations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.i
+.PHONY : CSES_Repitations.cpp.i
+
+CSES_Repitations.s: CSES_Repitations.cpp.s
+
+.PHONY : CSES_Repitations.s
+
+# target to generate assembly for a file
+CSES_Repitations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.s
+.PHONY : CSES_Repitations.cpp.s
 
 CSES_Weird_Algorithm.obj: CSES_Weird_Algorithm.cpp.obj
 
@@ -263,12 +478,32 @@ help:
 	@echo ... depend
 	@echo ... edit_cache
 	@echo ... rebuild_cache
+	@echo ... CF_Planet_Lapituletti
 	@echo ... CPP_Contest
+	@echo ... CSES_Increasing_Array
 	@echo ... CSES_Missing_Number
+	@echo ... CSES_Number_Spiral
+	@echo ... CSES_Permutations
+	@echo ... CSES_Repitations
 	@echo ... CSES_Weird_Algorithm
+	@echo ... CF_Planet_Lapituletti.obj
+	@echo ... CF_Planet_Lapituletti.i
+	@echo ... CF_Planet_Lapituletti.s
+	@echo ... CSES_Increasing_Array.obj
+	@echo ... CSES_Increasing_Array.i
+	@echo ... CSES_Increasing_Array.s
 	@echo ... CSES_Missing_Number.obj
 	@echo ... CSES_Missing_Number.i
 	@echo ... CSES_Missing_Number.s
+	@echo ... CSES_Number_Spiral.obj
+	@echo ... CSES_Number_Spiral.i
+	@echo ... CSES_Number_Spiral.s
+	@echo ... CSES_Permutations.obj
+	@echo ... CSES_Permutations.i
+	@echo ... CSES_Permutations.s
+	@echo ... CSES_Repitations.obj
+	@echo ... CSES_Repitations.i
+	@echo ... CSES_Repitations.s
 	@echo ... CSES_Weird_Algorithm.obj
 	@echo ... CSES_Weird_Algorithm.i
 	@echo ... CSES_Weird_Algorithm.s

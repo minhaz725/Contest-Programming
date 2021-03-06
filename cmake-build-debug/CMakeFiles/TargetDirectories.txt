@@ -1,5 +1,10 @@
-F:/CPP Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Increasing_Array.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Number_Spiral.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CF_Planet_Lapituletti.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Weird_Algorithm.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Missing_Number.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Repitations.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Permutations.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

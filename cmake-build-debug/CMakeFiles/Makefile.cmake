@@ -54,6 +54,11 @@ set(CMAKE_MAKEFILE_PRODUCTS
 # Dependency information for all targets:
 set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/CPP_Contest.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Increasing_Array.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Number_Spiral.dir/DependInfo.cmake"
+  "CMakeFiles/CF_Planet_Lapituletti.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Weird_Algorithm.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Missing_Number.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Repitations.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Permutations.dir/DependInfo.cmake"
   )

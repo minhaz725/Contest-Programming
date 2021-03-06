@@ -115,11 +115,81 @@ CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Missing_Number.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Missing_Number.cpp.s
 
+CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj: ../CSES_Repitations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CSES_Repitations.cpp.obj -c "F:\CPP Contest\CSES_Repitations.cpp"
+
+CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Repitations.cpp" > CMakeFiles\CPP_Contest.dir\CSES_Repitations.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Repitations.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Repitations.cpp.s
+
+CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj: ../CSES_Increasing_Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CSES_Increasing_Array.cpp.obj -c "F:\CPP Contest\CSES_Increasing_Array.cpp"
+
+CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Increasing_Array.cpp" > CMakeFiles\CPP_Contest.dir\CSES_Increasing_Array.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Increasing_Array.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Increasing_Array.cpp.s
+
+CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj: ../CSES_Permutations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CSES_Permutations.cpp.obj -c "F:\CPP Contest\CSES_Permutations.cpp"
+
+CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Permutations.cpp" > CMakeFiles\CPP_Contest.dir\CSES_Permutations.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Permutations.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Permutations.cpp.s
+
+CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj: ../CF_Planet_Lapituletti.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CF_Planet_Lapituletti.cpp.obj -c "F:\CPP Contest\CF_Planet_Lapituletti.cpp"
+
+CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CF_Planet_Lapituletti.cpp" > CMakeFiles\CPP_Contest.dir\CF_Planet_Lapituletti.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CF_Planet_Lapituletti.cpp" -o CMakeFiles\CPP_Contest.dir\CF_Planet_Lapituletti.cpp.s
+
+CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj: ../CSES_Number_Spiral.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CSES_Number_Spiral.cpp.obj -c "F:\CPP Contest\CSES_Number_Spiral.cpp"
+
+CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Number_Spiral.cpp" > CMakeFiles\CPP_Contest.dir\CSES_Number_Spiral.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Number_Spiral.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Number_Spiral.cpp.s
+
 # Object files for target CPP_Contest
 CPP_Contest_OBJECTS = \
 "CMakeFiles/CPP_Contest.dir/main.cpp.obj" \
 "CMakeFiles/CPP_Contest.dir/CSES_Weird_Algorithm.cpp.obj" \
-"CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.obj"
+"CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj"
 
 # External object files for target CPP_Contest
 CPP_Contest_EXTERNAL_OBJECTS =
@@ -127,11 +197,16 @@ CPP_Contest_EXTERNAL_OBJECTS =
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/main.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Weird_Algorithm.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/build.make
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/linklibs.rsp
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/objects1.rsp
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable CPP_Contest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable CPP_Contest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPP_Contest.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
