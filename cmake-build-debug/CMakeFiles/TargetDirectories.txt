@@ -6,5 +6,9 @@ F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Weird_Algorithm.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Missing_Number.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Repitations.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Permutations.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Two_Knights.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Two_Sets.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Bit_Strings.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Trailing_Zeros.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

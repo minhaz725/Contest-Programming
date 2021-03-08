@@ -61,4 +61,8 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/CSES_Missing_Number.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Repitations.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Permutations.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Two_Knights.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Two_Sets.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Bit_Strings.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Trailing_Zeros.dir/DependInfo.cmake"
   )

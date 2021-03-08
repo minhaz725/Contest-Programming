@@ -233,6 +233,58 @@ CSES_Permutations/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/build
 .PHONY : CSES_Permutations/fast
 
+#=============================================================================
+# Target rules for targets named CSES_Two_Knights
+
+# Build rule for target.
+CSES_Two_Knights: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Two_Knights
+.PHONY : CSES_Two_Knights
+
+# fast build rule for target.
+CSES_Two_Knights/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/build
+.PHONY : CSES_Two_Knights/fast
+
+#=============================================================================
+# Target rules for targets named CSES_Two_Sets
+
+# Build rule for target.
+CSES_Two_Sets: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Two_Sets
+.PHONY : CSES_Two_Sets
+
+# fast build rule for target.
+CSES_Two_Sets/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/build
+.PHONY : CSES_Two_Sets/fast
+
+#=============================================================================
+# Target rules for targets named CSES_Bit_Strings
+
+# Build rule for target.
+CSES_Bit_Strings: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Bit_Strings
+.PHONY : CSES_Bit_Strings
+
+# fast build rule for target.
+CSES_Bit_Strings/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/build
+.PHONY : CSES_Bit_Strings/fast
+
+#=============================================================================
+# Target rules for targets named CSES_Trailing_Zeros
+
+# Build rule for target.
+CSES_Trailing_Zeros: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Trailing_Zeros
+.PHONY : CSES_Trailing_Zeros
+
+# fast build rule for target.
+CSES_Trailing_Zeros/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/build
+.PHONY : CSES_Trailing_Zeros/fast
+
 CF_Planet_Lapituletti.obj: CF_Planet_Lapituletti.cpp.obj
 
 .PHONY : CF_Planet_Lapituletti.obj
@@ -262,6 +314,36 @@ CF_Planet_Lapituletti.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.s
 .PHONY : CF_Planet_Lapituletti.cpp.s
+
+CSES_Bit_Strings.obj: CSES_Bit_Strings.cpp.obj
+
+.PHONY : CSES_Bit_Strings.obj
+
+# target to build an object file
+CSES_Bit_Strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj
+.PHONY : CSES_Bit_Strings.cpp.obj
+
+CSES_Bit_Strings.i: CSES_Bit_Strings.cpp.i
+
+.PHONY : CSES_Bit_Strings.i
+
+# target to preprocess a source file
+CSES_Bit_Strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.i
+.PHONY : CSES_Bit_Strings.cpp.i
+
+CSES_Bit_Strings.s: CSES_Bit_Strings.cpp.s
+
+.PHONY : CSES_Bit_Strings.s
+
+# target to generate assembly for a file
+CSES_Bit_Strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.s
+.PHONY : CSES_Bit_Strings.cpp.s
 
 CSES_Increasing_Array.obj: CSES_Increasing_Array.cpp.obj
 
@@ -413,6 +495,96 @@ CSES_Repitations.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.s
 .PHONY : CSES_Repitations.cpp.s
 
+CSES_Trailing_Zeros.obj: CSES_Trailing_Zeros.cpp.obj
+
+.PHONY : CSES_Trailing_Zeros.obj
+
+# target to build an object file
+CSES_Trailing_Zeros.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES_Trailing_Zeros.cpp.obj
+.PHONY : CSES_Trailing_Zeros.cpp.obj
+
+CSES_Trailing_Zeros.i: CSES_Trailing_Zeros.cpp.i
+
+.PHONY : CSES_Trailing_Zeros.i
+
+# target to preprocess a source file
+CSES_Trailing_Zeros.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES_Trailing_Zeros.cpp.i
+.PHONY : CSES_Trailing_Zeros.cpp.i
+
+CSES_Trailing_Zeros.s: CSES_Trailing_Zeros.cpp.s
+
+.PHONY : CSES_Trailing_Zeros.s
+
+# target to generate assembly for a file
+CSES_Trailing_Zeros.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES_Trailing_Zeros.cpp.s
+.PHONY : CSES_Trailing_Zeros.cpp.s
+
+CSES_Two_Knights.obj: CSES_Two_Knights.cpp.obj
+
+.PHONY : CSES_Two_Knights.obj
+
+# target to build an object file
+CSES_Two_Knights.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj
+.PHONY : CSES_Two_Knights.cpp.obj
+
+CSES_Two_Knights.i: CSES_Two_Knights.cpp.i
+
+.PHONY : CSES_Two_Knights.i
+
+# target to preprocess a source file
+CSES_Two_Knights.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.i
+.PHONY : CSES_Two_Knights.cpp.i
+
+CSES_Two_Knights.s: CSES_Two_Knights.cpp.s
+
+.PHONY : CSES_Two_Knights.s
+
+# target to generate assembly for a file
+CSES_Two_Knights.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.s
+.PHONY : CSES_Two_Knights.cpp.s
+
+CSES_Two_Sets.obj: CSES_Two_Sets.cpp.obj
+
+.PHONY : CSES_Two_Sets.obj
+
+# target to build an object file
+CSES_Two_Sets.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES_Two_Sets.cpp.obj
+.PHONY : CSES_Two_Sets.cpp.obj
+
+CSES_Two_Sets.i: CSES_Two_Sets.cpp.i
+
+.PHONY : CSES_Two_Sets.i
+
+# target to preprocess a source file
+CSES_Two_Sets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES_Two_Sets.cpp.i
+.PHONY : CSES_Two_Sets.cpp.i
+
+CSES_Two_Sets.s: CSES_Two_Sets.cpp.s
+
+.PHONY : CSES_Two_Sets.s
+
+# target to generate assembly for a file
+CSES_Two_Sets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES_Two_Sets.cpp.s
+.PHONY : CSES_Two_Sets.cpp.s
+
 CSES_Weird_Algorithm.obj: CSES_Weird_Algorithm.cpp.obj
 
 .PHONY : CSES_Weird_Algorithm.obj
@@ -480,15 +652,22 @@ help:
 	@echo ... rebuild_cache
 	@echo ... CF_Planet_Lapituletti
 	@echo ... CPP_Contest
+	@echo ... CSES_Bit_Strings
 	@echo ... CSES_Increasing_Array
 	@echo ... CSES_Missing_Number
 	@echo ... CSES_Number_Spiral
 	@echo ... CSES_Permutations
 	@echo ... CSES_Repitations
+	@echo ... CSES_Trailing_Zeros
+	@echo ... CSES_Two_Knights
+	@echo ... CSES_Two_Sets
 	@echo ... CSES_Weird_Algorithm
 	@echo ... CF_Planet_Lapituletti.obj
 	@echo ... CF_Planet_Lapituletti.i
 	@echo ... CF_Planet_Lapituletti.s
+	@echo ... CSES_Bit_Strings.obj
+	@echo ... CSES_Bit_Strings.i
+	@echo ... CSES_Bit_Strings.s
 	@echo ... CSES_Increasing_Array.obj
 	@echo ... CSES_Increasing_Array.i
 	@echo ... CSES_Increasing_Array.s
@@ -504,6 +683,15 @@ help:
 	@echo ... CSES_Repitations.obj
 	@echo ... CSES_Repitations.i
 	@echo ... CSES_Repitations.s
+	@echo ... CSES_Trailing_Zeros.obj
+	@echo ... CSES_Trailing_Zeros.i
+	@echo ... CSES_Trailing_Zeros.s
+	@echo ... CSES_Two_Knights.obj
+	@echo ... CSES_Two_Knights.i
+	@echo ... CSES_Two_Knights.s
+	@echo ... CSES_Two_Sets.obj
+	@echo ... CSES_Two_Sets.i
+	@echo ... CSES_Two_Sets.s
 	@echo ... CSES_Weird_Algorithm.obj
 	@echo ... CSES_Weird_Algorithm.i
 	@echo ... CSES_Weird_Algorithm.s
