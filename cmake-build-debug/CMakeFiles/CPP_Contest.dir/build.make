@@ -232,6 +232,32 @@ CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Trailing_Zeros.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Trailing_Zeros.cpp.s
 
+CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj: ../CSES_Coin_Piles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Building CXX object CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CSES_Coin_Piles.cpp.obj -c "F:\CPP Contest\CSES_Coin_Piles.cpp"
+
+CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Coin_Piles.cpp" > CMakeFiles\CPP_Contest.dir\CSES_Coin_Piles.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Coin_Piles.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Coin_Piles.cpp.s
+
+CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj: ../CSES_Gray_Code.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_14) "Building CXX object CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CSES_Gray_Code.cpp.obj -c "F:\CPP Contest\CSES_Gray_Code.cpp"
+
+CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Gray_Code.cpp" > CMakeFiles\CPP_Contest.dir\CSES_Gray_Code.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Gray_Code.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Gray_Code.cpp.s
+
 # Object files for target CPP_Contest
 CPP_Contest_OBJECTS = \
 "CMakeFiles/CPP_Contest.dir/main.cpp.obj" \
@@ -245,7 +271,9 @@ CPP_Contest_OBJECTS = \
 "CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.obj" \
 "CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.obj" \
 "CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj" \
-"CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj"
+"CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj"
 
 # External object files for target CPP_Contest
 CPP_Contest_EXTERNAL_OBJECTS =
@@ -262,11 +290,13 @@ CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/build.make
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/linklibs.rsp
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/objects1.rsp
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_13) "Linking CXX executable CPP_Contest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable CPP_Contest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPP_Contest.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

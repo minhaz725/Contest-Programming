@@ -11,4 +11,6 @@ F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Two_Sets.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Bit_Strings.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/edit_cache.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Trailing_Zeros.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Coin_Piles.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Gray_Code.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

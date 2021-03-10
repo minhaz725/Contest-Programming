@@ -6,6 +6,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "F:/CPP Contest/CF_Planet_Lapituletti.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj"
   "F:/CPP Contest/CSES_Bit_Strings.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj"
+  "F:/CPP Contest/CSES_Coin_Piles.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj"
+  "F:/CPP Contest/CSES_Gray_Code.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj"
   "F:/CPP Contest/CSES_Increasing_Array.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj"
   "F:/CPP Contest/CSES_Missing_Number.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.obj"
   "F:/CPP Contest/CSES_Number_Spiral.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj"

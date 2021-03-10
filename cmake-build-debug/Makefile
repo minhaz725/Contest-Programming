@@ -285,6 +285,32 @@ CSES_Trailing_Zeros/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/build
 .PHONY : CSES_Trailing_Zeros/fast
 
+#=============================================================================
+# Target rules for targets named CSES_Coin_Piles
+
+# Build rule for target.
+CSES_Coin_Piles: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Coin_Piles
+.PHONY : CSES_Coin_Piles
+
+# fast build rule for target.
+CSES_Coin_Piles/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/build
+.PHONY : CSES_Coin_Piles/fast
+
+#=============================================================================
+# Target rules for targets named CSES_Gray_Code
+
+# Build rule for target.
+CSES_Gray_Code: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Gray_Code
+.PHONY : CSES_Gray_Code
+
+# fast build rule for target.
+CSES_Gray_Code/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/build
+.PHONY : CSES_Gray_Code/fast
+
 CF_Planet_Lapituletti.obj: CF_Planet_Lapituletti.cpp.obj
 
 .PHONY : CF_Planet_Lapituletti.obj
@@ -344,6 +370,66 @@ CSES_Bit_Strings.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.s
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.s
 .PHONY : CSES_Bit_Strings.cpp.s
+
+CSES_Coin_Piles.obj: CSES_Coin_Piles.cpp.obj
+
+.PHONY : CSES_Coin_Piles.obj
+
+# target to build an object file
+CSES_Coin_Piles.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj
+.PHONY : CSES_Coin_Piles.cpp.obj
+
+CSES_Coin_Piles.i: CSES_Coin_Piles.cpp.i
+
+.PHONY : CSES_Coin_Piles.i
+
+# target to preprocess a source file
+CSES_Coin_Piles.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.i
+.PHONY : CSES_Coin_Piles.cpp.i
+
+CSES_Coin_Piles.s: CSES_Coin_Piles.cpp.s
+
+.PHONY : CSES_Coin_Piles.s
+
+# target to generate assembly for a file
+CSES_Coin_Piles.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.s
+.PHONY : CSES_Coin_Piles.cpp.s
+
+CSES_Gray_Code.obj: CSES_Gray_Code.cpp.obj
+
+.PHONY : CSES_Gray_Code.obj
+
+# target to build an object file
+CSES_Gray_Code.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj
+.PHONY : CSES_Gray_Code.cpp.obj
+
+CSES_Gray_Code.i: CSES_Gray_Code.cpp.i
+
+.PHONY : CSES_Gray_Code.i
+
+# target to preprocess a source file
+CSES_Gray_Code.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.i
+.PHONY : CSES_Gray_Code.cpp.i
+
+CSES_Gray_Code.s: CSES_Gray_Code.cpp.s
+
+.PHONY : CSES_Gray_Code.s
+
+# target to generate assembly for a file
+CSES_Gray_Code.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.s
+.PHONY : CSES_Gray_Code.cpp.s
 
 CSES_Increasing_Array.obj: CSES_Increasing_Array.cpp.obj
 
@@ -653,6 +739,8 @@ help:
 	@echo ... CF_Planet_Lapituletti
 	@echo ... CPP_Contest
 	@echo ... CSES_Bit_Strings
+	@echo ... CSES_Coin_Piles
+	@echo ... CSES_Gray_Code
 	@echo ... CSES_Increasing_Array
 	@echo ... CSES_Missing_Number
 	@echo ... CSES_Number_Spiral
@@ -668,6 +756,12 @@ help:
 	@echo ... CSES_Bit_Strings.obj
 	@echo ... CSES_Bit_Strings.i
 	@echo ... CSES_Bit_Strings.s
+	@echo ... CSES_Coin_Piles.obj
+	@echo ... CSES_Coin_Piles.i
+	@echo ... CSES_Coin_Piles.s
+	@echo ... CSES_Gray_Code.obj
+	@echo ... CSES_Gray_Code.i
+	@echo ... CSES_Gray_Code.s
 	@echo ... CSES_Increasing_Array.obj
 	@echo ... CSES_Increasing_Array.i
 	@echo ... CSES_Increasing_Array.s

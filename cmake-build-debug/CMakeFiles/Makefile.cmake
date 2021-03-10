@@ -65,4 +65,6 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/CSES_Two_Sets.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Bit_Strings.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Trailing_Zeros.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Coin_Piles.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Gray_Code.dir/DependInfo.cmake"
   )

@@ -1,6 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj"
   "CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj"
+  "CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj"
+  "CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj"
   "CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj"
   "CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.obj"
   "CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj"
