@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/CPP Contest/CSES_Number_Spiral.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj"
+  "F:/CPP Contest/CSES/CSES_Number_Spiral.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

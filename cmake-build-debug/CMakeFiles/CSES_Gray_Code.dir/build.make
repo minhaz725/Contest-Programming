@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Gray_Code.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Gray_Code.dir/flags.make
 
-CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj: CMakeFiles/CSES_Gray_Code.dir/flags.make
-CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj: ../CSES_Gray_Code.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Gray_Code.dir\CSES_Gray_Code.cpp.obj -c "F:\CPP Contest\CSES_Gray_Code.cpp"
+CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.obj: CMakeFiles/CSES_Gray_Code.dir/flags.make
+CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.obj: ../CSES/CSES_Gray_Code.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Gray_Code.dir\CSES\CSES_Gray_Code.cpp.obj -c "F:\CPP Contest\CSES\CSES_Gray_Code.cpp"
 
-CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Gray_Code.cpp" > CMakeFiles\CSES_Gray_Code.dir\CSES_Gray_Code.cpp.i
+CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Gray_Code.cpp" > CMakeFiles\CSES_Gray_Code.dir\CSES\CSES_Gray_Code.cpp.i
 
-CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Gray_Code.cpp" -o CMakeFiles\CSES_Gray_Code.dir\CSES_Gray_Code.cpp.s
+CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Gray_Code.cpp" -o CMakeFiles\CSES_Gray_Code.dir\CSES\CSES_Gray_Code.cpp.s
 
 # Object files for target CSES_Gray_Code
 CSES_Gray_Code_OBJECTS = \
-"CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj"
+"CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.obj"
 
 # External object files for target CSES_Gray_Code
 CSES_Gray_Code_EXTERNAL_OBJECTS =
 
-CSES_Gray_Code.exe: CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj
+CSES_Gray_Code.exe: CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.obj
 CSES_Gray_Code.exe: CMakeFiles/CSES_Gray_Code.dir/build.make
 CSES_Gray_Code.exe: CMakeFiles/CSES_Gray_Code.dir/linklibs.rsp
 CSES_Gray_Code.exe: CMakeFiles/CSES_Gray_Code.dir/objects1.rsp

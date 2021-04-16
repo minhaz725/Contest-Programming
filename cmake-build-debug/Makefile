@@ -337,425 +337,422 @@ CodeJam_Moons_and_Umbrellas/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/build
 .PHONY : CodeJam_Moons_and_Umbrellas/fast
 
-CF_Planet_Lapituletti.obj: CF_Planet_Lapituletti.cpp.obj
+CSES/CSES_Bit_Strings.obj: CSES/CSES_Bit_Strings.cpp.obj
 
-.PHONY : CF_Planet_Lapituletti.obj
-
-# target to build an object file
-CF_Planet_Lapituletti.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj
-.PHONY : CF_Planet_Lapituletti.cpp.obj
-
-CF_Planet_Lapituletti.i: CF_Planet_Lapituletti.cpp.i
-
-.PHONY : CF_Planet_Lapituletti.i
-
-# target to preprocess a source file
-CF_Planet_Lapituletti.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.i
-.PHONY : CF_Planet_Lapituletti.cpp.i
-
-CF_Planet_Lapituletti.s: CF_Planet_Lapituletti.cpp.s
-
-.PHONY : CF_Planet_Lapituletti.s
-
-# target to generate assembly for a file
-CF_Planet_Lapituletti.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CF_Planet_Lapituletti.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.s
-.PHONY : CF_Planet_Lapituletti.cpp.s
-
-CSES_Bit_Strings.obj: CSES_Bit_Strings.cpp.obj
-
-.PHONY : CSES_Bit_Strings.obj
+.PHONY : CSES/CSES_Bit_Strings.obj
 
 # target to build an object file
-CSES_Bit_Strings.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj
-.PHONY : CSES_Bit_Strings.cpp.obj
+CSES/CSES_Bit_Strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Bit_Strings.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.obj
+.PHONY : CSES/CSES_Bit_Strings.cpp.obj
 
-CSES_Bit_Strings.i: CSES_Bit_Strings.cpp.i
+CSES/CSES_Bit_Strings.i: CSES/CSES_Bit_Strings.cpp.i
 
-.PHONY : CSES_Bit_Strings.i
+.PHONY : CSES/CSES_Bit_Strings.i
 
 # target to preprocess a source file
-CSES_Bit_Strings.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.i
-.PHONY : CSES_Bit_Strings.cpp.i
+CSES/CSES_Bit_Strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Bit_Strings.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.i
+.PHONY : CSES/CSES_Bit_Strings.cpp.i
 
-CSES_Bit_Strings.s: CSES_Bit_Strings.cpp.s
+CSES/CSES_Bit_Strings.s: CSES/CSES_Bit_Strings.cpp.s
 
-.PHONY : CSES_Bit_Strings.s
+.PHONY : CSES/CSES_Bit_Strings.s
 
 # target to generate assembly for a file
-CSES_Bit_Strings.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.s
-.PHONY : CSES_Bit_Strings.cpp.s
+CSES/CSES_Bit_Strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Bit_Strings.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.s
+.PHONY : CSES/CSES_Bit_Strings.cpp.s
 
-CSES_Coin_Piles.obj: CSES_Coin_Piles.cpp.obj
+CSES/CSES_Coin_Piles.obj: CSES/CSES_Coin_Piles.cpp.obj
 
-.PHONY : CSES_Coin_Piles.obj
+.PHONY : CSES/CSES_Coin_Piles.obj
 
 # target to build an object file
-CSES_Coin_Piles.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj
-.PHONY : CSES_Coin_Piles.cpp.obj
+CSES/CSES_Coin_Piles.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Coin_Piles.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.obj
+.PHONY : CSES/CSES_Coin_Piles.cpp.obj
 
-CSES_Coin_Piles.i: CSES_Coin_Piles.cpp.i
+CSES/CSES_Coin_Piles.i: CSES/CSES_Coin_Piles.cpp.i
 
-.PHONY : CSES_Coin_Piles.i
+.PHONY : CSES/CSES_Coin_Piles.i
 
 # target to preprocess a source file
-CSES_Coin_Piles.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.i
-.PHONY : CSES_Coin_Piles.cpp.i
+CSES/CSES_Coin_Piles.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Coin_Piles.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.i
+.PHONY : CSES/CSES_Coin_Piles.cpp.i
 
-CSES_Coin_Piles.s: CSES_Coin_Piles.cpp.s
+CSES/CSES_Coin_Piles.s: CSES/CSES_Coin_Piles.cpp.s
 
-.PHONY : CSES_Coin_Piles.s
+.PHONY : CSES/CSES_Coin_Piles.s
 
 # target to generate assembly for a file
-CSES_Coin_Piles.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.s
-.PHONY : CSES_Coin_Piles.cpp.s
+CSES/CSES_Coin_Piles.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Coin_Piles.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.s
+.PHONY : CSES/CSES_Coin_Piles.cpp.s
 
-CSES_Gray_Code.obj: CSES_Gray_Code.cpp.obj
+CSES/CSES_Gray_Code.obj: CSES/CSES_Gray_Code.cpp.obj
 
-.PHONY : CSES_Gray_Code.obj
+.PHONY : CSES/CSES_Gray_Code.obj
 
 # target to build an object file
-CSES_Gray_Code.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj
-.PHONY : CSES_Gray_Code.cpp.obj
+CSES/CSES_Gray_Code.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Gray_Code.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.obj
+.PHONY : CSES/CSES_Gray_Code.cpp.obj
 
-CSES_Gray_Code.i: CSES_Gray_Code.cpp.i
+CSES/CSES_Gray_Code.i: CSES/CSES_Gray_Code.cpp.i
 
-.PHONY : CSES_Gray_Code.i
+.PHONY : CSES/CSES_Gray_Code.i
 
 # target to preprocess a source file
-CSES_Gray_Code.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.i
-.PHONY : CSES_Gray_Code.cpp.i
+CSES/CSES_Gray_Code.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Gray_Code.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.i
+.PHONY : CSES/CSES_Gray_Code.cpp.i
 
-CSES_Gray_Code.s: CSES_Gray_Code.cpp.s
+CSES/CSES_Gray_Code.s: CSES/CSES_Gray_Code.cpp.s
 
-.PHONY : CSES_Gray_Code.s
+.PHONY : CSES/CSES_Gray_Code.s
 
 # target to generate assembly for a file
-CSES_Gray_Code.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.s
-.PHONY : CSES_Gray_Code.cpp.s
+CSES/CSES_Gray_Code.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Gray_Code.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.s
+.PHONY : CSES/CSES_Gray_Code.cpp.s
 
-CSES_Increasing_Array.obj: CSES_Increasing_Array.cpp.obj
+CSES/CSES_Increasing_Array.obj: CSES/CSES_Increasing_Array.cpp.obj
 
-.PHONY : CSES_Increasing_Array.obj
+.PHONY : CSES/CSES_Increasing_Array.obj
 
 # target to build an object file
-CSES_Increasing_Array.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.obj
-.PHONY : CSES_Increasing_Array.cpp.obj
+CSES/CSES_Increasing_Array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Increasing_Array.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.obj
+.PHONY : CSES/CSES_Increasing_Array.cpp.obj
 
-CSES_Increasing_Array.i: CSES_Increasing_Array.cpp.i
+CSES/CSES_Increasing_Array.i: CSES/CSES_Increasing_Array.cpp.i
 
-.PHONY : CSES_Increasing_Array.i
+.PHONY : CSES/CSES_Increasing_Array.i
 
 # target to preprocess a source file
-CSES_Increasing_Array.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.i
-.PHONY : CSES_Increasing_Array.cpp.i
+CSES/CSES_Increasing_Array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Increasing_Array.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.i
+.PHONY : CSES/CSES_Increasing_Array.cpp.i
 
-CSES_Increasing_Array.s: CSES_Increasing_Array.cpp.s
+CSES/CSES_Increasing_Array.s: CSES/CSES_Increasing_Array.cpp.s
 
-.PHONY : CSES_Increasing_Array.s
+.PHONY : CSES/CSES_Increasing_Array.s
 
 # target to generate assembly for a file
-CSES_Increasing_Array.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Increasing_Array.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.s
-.PHONY : CSES_Increasing_Array.cpp.s
+CSES/CSES_Increasing_Array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Increasing_Array.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.s
+.PHONY : CSES/CSES_Increasing_Array.cpp.s
 
-CSES_Missing_Number.obj: CSES_Missing_Number.cpp.obj
+CSES/CSES_Missing_Number.obj: CSES/CSES_Missing_Number.cpp.obj
 
-.PHONY : CSES_Missing_Number.obj
+.PHONY : CSES/CSES_Missing_Number.obj
 
 # target to build an object file
-CSES_Missing_Number.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj
-.PHONY : CSES_Missing_Number.cpp.obj
+CSES/CSES_Missing_Number.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Missing_Number.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj
+.PHONY : CSES/CSES_Missing_Number.cpp.obj
 
-CSES_Missing_Number.i: CSES_Missing_Number.cpp.i
+CSES/CSES_Missing_Number.i: CSES/CSES_Missing_Number.cpp.i
 
-.PHONY : CSES_Missing_Number.i
+.PHONY : CSES/CSES_Missing_Number.i
 
 # target to preprocess a source file
-CSES_Missing_Number.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.i
-.PHONY : CSES_Missing_Number.cpp.i
+CSES/CSES_Missing_Number.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Missing_Number.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.i
+.PHONY : CSES/CSES_Missing_Number.cpp.i
 
-CSES_Missing_Number.s: CSES_Missing_Number.cpp.s
+CSES/CSES_Missing_Number.s: CSES/CSES_Missing_Number.cpp.s
 
-.PHONY : CSES_Missing_Number.s
+.PHONY : CSES/CSES_Missing_Number.s
 
 # target to generate assembly for a file
-CSES_Missing_Number.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Missing_Number.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.s
-.PHONY : CSES_Missing_Number.cpp.s
+CSES/CSES_Missing_Number.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Missing_Number.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.s
+.PHONY : CSES/CSES_Missing_Number.cpp.s
 
-CSES_Number_Spiral.obj: CSES_Number_Spiral.cpp.obj
+CSES/CSES_Number_Spiral.obj: CSES/CSES_Number_Spiral.cpp.obj
 
-.PHONY : CSES_Number_Spiral.obj
+.PHONY : CSES/CSES_Number_Spiral.obj
 
 # target to build an object file
-CSES_Number_Spiral.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj
-.PHONY : CSES_Number_Spiral.cpp.obj
+CSES/CSES_Number_Spiral.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Number_Spiral.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj
+.PHONY : CSES/CSES_Number_Spiral.cpp.obj
 
-CSES_Number_Spiral.i: CSES_Number_Spiral.cpp.i
+CSES/CSES_Number_Spiral.i: CSES/CSES_Number_Spiral.cpp.i
 
-.PHONY : CSES_Number_Spiral.i
+.PHONY : CSES/CSES_Number_Spiral.i
 
 # target to preprocess a source file
-CSES_Number_Spiral.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.i
-.PHONY : CSES_Number_Spiral.cpp.i
+CSES/CSES_Number_Spiral.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Number_Spiral.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.i
+.PHONY : CSES/CSES_Number_Spiral.cpp.i
 
-CSES_Number_Spiral.s: CSES_Number_Spiral.cpp.s
+CSES/CSES_Number_Spiral.s: CSES/CSES_Number_Spiral.cpp.s
 
-.PHONY : CSES_Number_Spiral.s
+.PHONY : CSES/CSES_Number_Spiral.s
 
 # target to generate assembly for a file
-CSES_Number_Spiral.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.s
-.PHONY : CSES_Number_Spiral.cpp.s
+CSES/CSES_Number_Spiral.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Number_Spiral.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.s
+.PHONY : CSES/CSES_Number_Spiral.cpp.s
 
-CSES_Permutations.obj: CSES_Permutations.cpp.obj
+CSES/CSES_Permutations.obj: CSES/CSES_Permutations.cpp.obj
 
-.PHONY : CSES_Permutations.obj
+.PHONY : CSES/CSES_Permutations.obj
 
 # target to build an object file
-CSES_Permutations.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj
-.PHONY : CSES_Permutations.cpp.obj
+CSES/CSES_Permutations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Permutations.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.obj
+.PHONY : CSES/CSES_Permutations.cpp.obj
 
-CSES_Permutations.i: CSES_Permutations.cpp.i
+CSES/CSES_Permutations.i: CSES/CSES_Permutations.cpp.i
 
-.PHONY : CSES_Permutations.i
+.PHONY : CSES/CSES_Permutations.i
 
 # target to preprocess a source file
-CSES_Permutations.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.i
-.PHONY : CSES_Permutations.cpp.i
+CSES/CSES_Permutations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Permutations.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.i
+.PHONY : CSES/CSES_Permutations.cpp.i
 
-CSES_Permutations.s: CSES_Permutations.cpp.s
+CSES/CSES_Permutations.s: CSES/CSES_Permutations.cpp.s
 
-.PHONY : CSES_Permutations.s
+.PHONY : CSES/CSES_Permutations.s
 
 # target to generate assembly for a file
-CSES_Permutations.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.s
-.PHONY : CSES_Permutations.cpp.s
+CSES/CSES_Permutations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Permutations.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.s
+.PHONY : CSES/CSES_Permutations.cpp.s
 
-CSES_Repitations.obj: CSES_Repitations.cpp.obj
+CSES/CSES_Repitations.obj: CSES/CSES_Repitations.cpp.obj
 
-.PHONY : CSES_Repitations.obj
+.PHONY : CSES/CSES_Repitations.obj
 
 # target to build an object file
-CSES_Repitations.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj
-.PHONY : CSES_Repitations.cpp.obj
+CSES/CSES_Repitations.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Repitations.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.obj
+.PHONY : CSES/CSES_Repitations.cpp.obj
 
-CSES_Repitations.i: CSES_Repitations.cpp.i
+CSES/CSES_Repitations.i: CSES/CSES_Repitations.cpp.i
 
-.PHONY : CSES_Repitations.i
+.PHONY : CSES/CSES_Repitations.i
 
 # target to preprocess a source file
-CSES_Repitations.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.i
-.PHONY : CSES_Repitations.cpp.i
+CSES/CSES_Repitations.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Repitations.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.i
+.PHONY : CSES/CSES_Repitations.cpp.i
 
-CSES_Repitations.s: CSES_Repitations.cpp.s
+CSES/CSES_Repitations.s: CSES/CSES_Repitations.cpp.s
 
-.PHONY : CSES_Repitations.s
+.PHONY : CSES/CSES_Repitations.s
 
 # target to generate assembly for a file
-CSES_Repitations.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.s
-.PHONY : CSES_Repitations.cpp.s
+CSES/CSES_Repitations.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Repitations.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.s
+.PHONY : CSES/CSES_Repitations.cpp.s
 
-CSES_Tower_of_Hanoi.obj: CSES_Tower_of_Hanoi.cpp.obj
+CSES/CSES_Tower_of_Hanoi.obj: CSES/CSES_Tower_of_Hanoi.cpp.obj
 
-.PHONY : CSES_Tower_of_Hanoi.obj
+.PHONY : CSES/CSES_Tower_of_Hanoi.obj
 
 # target to build an object file
-CSES_Tower_of_Hanoi.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj
-.PHONY : CSES_Tower_of_Hanoi.cpp.obj
+CSES/CSES_Tower_of_Hanoi.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj
+.PHONY : CSES/CSES_Tower_of_Hanoi.cpp.obj
 
-CSES_Tower_of_Hanoi.i: CSES_Tower_of_Hanoi.cpp.i
+CSES/CSES_Tower_of_Hanoi.i: CSES/CSES_Tower_of_Hanoi.cpp.i
 
-.PHONY : CSES_Tower_of_Hanoi.i
+.PHONY : CSES/CSES_Tower_of_Hanoi.i
 
 # target to preprocess a source file
-CSES_Tower_of_Hanoi.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.i
-.PHONY : CSES_Tower_of_Hanoi.cpp.i
+CSES/CSES_Tower_of_Hanoi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Tower_of_Hanoi.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.i
+.PHONY : CSES/CSES_Tower_of_Hanoi.cpp.i
 
-CSES_Tower_of_Hanoi.s: CSES_Tower_of_Hanoi.cpp.s
+CSES/CSES_Tower_of_Hanoi.s: CSES/CSES_Tower_of_Hanoi.cpp.s
 
-.PHONY : CSES_Tower_of_Hanoi.s
+.PHONY : CSES/CSES_Tower_of_Hanoi.s
 
 # target to generate assembly for a file
-CSES_Tower_of_Hanoi.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.s
-.PHONY : CSES_Tower_of_Hanoi.cpp.s
+CSES/CSES_Tower_of_Hanoi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Tower_of_Hanoi.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.s
+.PHONY : CSES/CSES_Tower_of_Hanoi.cpp.s
 
-CSES_Trailing_Zeros.obj: CSES_Trailing_Zeros.cpp.obj
+CSES/CSES_Trailing_Zeros.obj: CSES/CSES_Trailing_Zeros.cpp.obj
 
-.PHONY : CSES_Trailing_Zeros.obj
+.PHONY : CSES/CSES_Trailing_Zeros.obj
 
 # target to build an object file
-CSES_Trailing_Zeros.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES_Trailing_Zeros.cpp.obj
-.PHONY : CSES_Trailing_Zeros.cpp.obj
+CSES/CSES_Trailing_Zeros.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Trailing_Zeros.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES/CSES_Trailing_Zeros.cpp.obj
+.PHONY : CSES/CSES_Trailing_Zeros.cpp.obj
 
-CSES_Trailing_Zeros.i: CSES_Trailing_Zeros.cpp.i
+CSES/CSES_Trailing_Zeros.i: CSES/CSES_Trailing_Zeros.cpp.i
 
-.PHONY : CSES_Trailing_Zeros.i
+.PHONY : CSES/CSES_Trailing_Zeros.i
 
 # target to preprocess a source file
-CSES_Trailing_Zeros.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES_Trailing_Zeros.cpp.i
-.PHONY : CSES_Trailing_Zeros.cpp.i
+CSES/CSES_Trailing_Zeros.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Trailing_Zeros.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES/CSES_Trailing_Zeros.cpp.i
+.PHONY : CSES/CSES_Trailing_Zeros.cpp.i
 
-CSES_Trailing_Zeros.s: CSES_Trailing_Zeros.cpp.s
+CSES/CSES_Trailing_Zeros.s: CSES/CSES_Trailing_Zeros.cpp.s
 
-.PHONY : CSES_Trailing_Zeros.s
+.PHONY : CSES/CSES_Trailing_Zeros.s
 
 # target to generate assembly for a file
-CSES_Trailing_Zeros.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES_Trailing_Zeros.cpp.s
-.PHONY : CSES_Trailing_Zeros.cpp.s
+CSES/CSES_Trailing_Zeros.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Trailing_Zeros.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/CSES/CSES_Trailing_Zeros.cpp.s
+.PHONY : CSES/CSES_Trailing_Zeros.cpp.s
 
-CSES_Two_Knights.obj: CSES_Two_Knights.cpp.obj
+CSES/CSES_Two_Knights.obj: CSES/CSES_Two_Knights.cpp.obj
 
-.PHONY : CSES_Two_Knights.obj
+.PHONY : CSES/CSES_Two_Knights.obj
 
 # target to build an object file
-CSES_Two_Knights.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj
-.PHONY : CSES_Two_Knights.cpp.obj
+CSES/CSES_Two_Knights.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Two_Knights.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.obj
+.PHONY : CSES/CSES_Two_Knights.cpp.obj
 
-CSES_Two_Knights.i: CSES_Two_Knights.cpp.i
+CSES/CSES_Two_Knights.i: CSES/CSES_Two_Knights.cpp.i
 
-.PHONY : CSES_Two_Knights.i
+.PHONY : CSES/CSES_Two_Knights.i
 
 # target to preprocess a source file
-CSES_Two_Knights.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.i
-.PHONY : CSES_Two_Knights.cpp.i
+CSES/CSES_Two_Knights.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Two_Knights.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.i
+.PHONY : CSES/CSES_Two_Knights.cpp.i
 
-CSES_Two_Knights.s: CSES_Two_Knights.cpp.s
+CSES/CSES_Two_Knights.s: CSES/CSES_Two_Knights.cpp.s
 
-.PHONY : CSES_Two_Knights.s
+.PHONY : CSES/CSES_Two_Knights.s
 
 # target to generate assembly for a file
-CSES_Two_Knights.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.s
-.PHONY : CSES_Two_Knights.cpp.s
+CSES/CSES_Two_Knights.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Two_Knights.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.s
+.PHONY : CSES/CSES_Two_Knights.cpp.s
 
-CSES_Two_Sets.obj: CSES_Two_Sets.cpp.obj
+CSES/CSES_Two_Sets.obj: CSES/CSES_Two_Sets.cpp.obj
 
-.PHONY : CSES_Two_Sets.obj
+.PHONY : CSES/CSES_Two_Sets.obj
 
 # target to build an object file
-CSES_Two_Sets.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES_Two_Sets.cpp.obj
-.PHONY : CSES_Two_Sets.cpp.obj
+CSES/CSES_Two_Sets.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Two_Sets.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES/CSES_Two_Sets.cpp.obj
+.PHONY : CSES/CSES_Two_Sets.cpp.obj
 
-CSES_Two_Sets.i: CSES_Two_Sets.cpp.i
+CSES/CSES_Two_Sets.i: CSES/CSES_Two_Sets.cpp.i
 
-.PHONY : CSES_Two_Sets.i
+.PHONY : CSES/CSES_Two_Sets.i
 
 # target to preprocess a source file
-CSES_Two_Sets.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES_Two_Sets.cpp.i
-.PHONY : CSES_Two_Sets.cpp.i
+CSES/CSES_Two_Sets.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Two_Sets.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES/CSES_Two_Sets.cpp.i
+.PHONY : CSES/CSES_Two_Sets.cpp.i
 
-CSES_Two_Sets.s: CSES_Two_Sets.cpp.s
+CSES/CSES_Two_Sets.s: CSES/CSES_Two_Sets.cpp.s
 
-.PHONY : CSES_Two_Sets.s
+.PHONY : CSES/CSES_Two_Sets.s
 
 # target to generate assembly for a file
-CSES_Two_Sets.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES_Two_Sets.cpp.s
-.PHONY : CSES_Two_Sets.cpp.s
+CSES/CSES_Two_Sets.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Two_Sets.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/CSES/CSES_Two_Sets.cpp.s
+.PHONY : CSES/CSES_Two_Sets.cpp.s
 
-CSES_Weird_Algorithm.obj: CSES_Weird_Algorithm.cpp.obj
+CSES/CSES_Weird_Algorithm.obj: CSES/CSES_Weird_Algorithm.cpp.obj
 
-.PHONY : CSES_Weird_Algorithm.obj
+.PHONY : CSES/CSES_Weird_Algorithm.obj
 
 # target to build an object file
-CSES_Weird_Algorithm.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Weird_Algorithm.cpp.obj
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.obj
-.PHONY : CSES_Weird_Algorithm.cpp.obj
+CSES/CSES_Weird_Algorithm.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Weird_Algorithm.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.obj
+.PHONY : CSES/CSES_Weird_Algorithm.cpp.obj
 
-CSES_Weird_Algorithm.i: CSES_Weird_Algorithm.cpp.i
+CSES/CSES_Weird_Algorithm.i: CSES/CSES_Weird_Algorithm.cpp.i
 
-.PHONY : CSES_Weird_Algorithm.i
+.PHONY : CSES/CSES_Weird_Algorithm.i
 
 # target to preprocess a source file
-CSES_Weird_Algorithm.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Weird_Algorithm.cpp.i
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.i
-.PHONY : CSES_Weird_Algorithm.cpp.i
+CSES/CSES_Weird_Algorithm.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Weird_Algorithm.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.i
+.PHONY : CSES/CSES_Weird_Algorithm.cpp.i
 
-CSES_Weird_Algorithm.s: CSES_Weird_Algorithm.cpp.s
+CSES/CSES_Weird_Algorithm.s: CSES/CSES_Weird_Algorithm.cpp.s
 
-.PHONY : CSES_Weird_Algorithm.s
+.PHONY : CSES/CSES_Weird_Algorithm.s
 
 # target to generate assembly for a file
-CSES_Weird_Algorithm.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Weird_Algorithm.cpp.s
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.s
-.PHONY : CSES_Weird_Algorithm.cpp.s
+CSES/CSES_Weird_Algorithm.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/CSES_Weird_Algorithm.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.s
+.PHONY : CSES/CSES_Weird_Algorithm.cpp.s
+
+CSES/main.obj: CSES/main.cpp.obj
+
+.PHONY : CSES/main.obj
+
+# target to build an object file
+CSES/main.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/main.cpp.obj
+.PHONY : CSES/main.cpp.obj
+
+CSES/main.i: CSES/main.cpp.i
+
+.PHONY : CSES/main.i
+
+# target to preprocess a source file
+CSES/main.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/main.cpp.i
+.PHONY : CSES/main.cpp.i
+
+CSES/main.s: CSES/main.cpp.s
+
+.PHONY : CSES/main.s
+
+# target to generate assembly for a file
+CSES/main.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES/main.cpp.s
+.PHONY : CSES/main.cpp.s
 
 CodeJam_Moons_and_Umbrellas.obj: CodeJam_Moons_and_Umbrellas.cpp.obj
 
@@ -787,32 +784,35 @@ CodeJam_Moons_and_Umbrellas.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/CodeJam_Moons_and_Umbrellas.cpp.s
 .PHONY : CodeJam_Moons_and_Umbrellas.cpp.s
 
-main.obj: main.cpp.obj
+codeforces/CF_Planet_Lapituletti.obj: codeforces/CF_Planet_Lapituletti.cpp.obj
 
-.PHONY : main.obj
+.PHONY : codeforces/CF_Planet_Lapituletti.obj
 
 # target to build an object file
-main.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/main.cpp.obj
-.PHONY : main.cpp.obj
+codeforces/CF_Planet_Lapituletti.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/codeforces/CF_Planet_Lapituletti.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.obj
+.PHONY : codeforces/CF_Planet_Lapituletti.cpp.obj
 
-main.i: main.cpp.i
+codeforces/CF_Planet_Lapituletti.i: codeforces/CF_Planet_Lapituletti.cpp.i
 
-.PHONY : main.i
+.PHONY : codeforces/CF_Planet_Lapituletti.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/main.cpp.i
-.PHONY : main.cpp.i
+codeforces/CF_Planet_Lapituletti.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/codeforces/CF_Planet_Lapituletti.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.i
+.PHONY : codeforces/CF_Planet_Lapituletti.cpp.i
 
-main.s: main.cpp.s
+codeforces/CF_Planet_Lapituletti.s: codeforces/CF_Planet_Lapituletti.cpp.s
 
-.PHONY : main.s
+.PHONY : codeforces/CF_Planet_Lapituletti.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/main.cpp.s
-.PHONY : main.cpp.s
+codeforces/CF_Planet_Lapituletti.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/codeforces/CF_Planet_Lapituletti.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CF_Planet_Lapituletti.dir\build.make CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.s
+.PHONY : codeforces/CF_Planet_Lapituletti.cpp.s
 
 # Help Target
 help:
@@ -838,54 +838,54 @@ help:
 	@echo ... CSES_Two_Sets
 	@echo ... CSES_Weird_Algorithm
 	@echo ... CodeJam_Moons_and_Umbrellas
-	@echo ... CF_Planet_Lapituletti.obj
-	@echo ... CF_Planet_Lapituletti.i
-	@echo ... CF_Planet_Lapituletti.s
-	@echo ... CSES_Bit_Strings.obj
-	@echo ... CSES_Bit_Strings.i
-	@echo ... CSES_Bit_Strings.s
-	@echo ... CSES_Coin_Piles.obj
-	@echo ... CSES_Coin_Piles.i
-	@echo ... CSES_Coin_Piles.s
-	@echo ... CSES_Gray_Code.obj
-	@echo ... CSES_Gray_Code.i
-	@echo ... CSES_Gray_Code.s
-	@echo ... CSES_Increasing_Array.obj
-	@echo ... CSES_Increasing_Array.i
-	@echo ... CSES_Increasing_Array.s
-	@echo ... CSES_Missing_Number.obj
-	@echo ... CSES_Missing_Number.i
-	@echo ... CSES_Missing_Number.s
-	@echo ... CSES_Number_Spiral.obj
-	@echo ... CSES_Number_Spiral.i
-	@echo ... CSES_Number_Spiral.s
-	@echo ... CSES_Permutations.obj
-	@echo ... CSES_Permutations.i
-	@echo ... CSES_Permutations.s
-	@echo ... CSES_Repitations.obj
-	@echo ... CSES_Repitations.i
-	@echo ... CSES_Repitations.s
-	@echo ... CSES_Tower_of_Hanoi.obj
-	@echo ... CSES_Tower_of_Hanoi.i
-	@echo ... CSES_Tower_of_Hanoi.s
-	@echo ... CSES_Trailing_Zeros.obj
-	@echo ... CSES_Trailing_Zeros.i
-	@echo ... CSES_Trailing_Zeros.s
-	@echo ... CSES_Two_Knights.obj
-	@echo ... CSES_Two_Knights.i
-	@echo ... CSES_Two_Knights.s
-	@echo ... CSES_Two_Sets.obj
-	@echo ... CSES_Two_Sets.i
-	@echo ... CSES_Two_Sets.s
-	@echo ... CSES_Weird_Algorithm.obj
-	@echo ... CSES_Weird_Algorithm.i
-	@echo ... CSES_Weird_Algorithm.s
+	@echo ... CSES/CSES_Bit_Strings.obj
+	@echo ... CSES/CSES_Bit_Strings.i
+	@echo ... CSES/CSES_Bit_Strings.s
+	@echo ... CSES/CSES_Coin_Piles.obj
+	@echo ... CSES/CSES_Coin_Piles.i
+	@echo ... CSES/CSES_Coin_Piles.s
+	@echo ... CSES/CSES_Gray_Code.obj
+	@echo ... CSES/CSES_Gray_Code.i
+	@echo ... CSES/CSES_Gray_Code.s
+	@echo ... CSES/CSES_Increasing_Array.obj
+	@echo ... CSES/CSES_Increasing_Array.i
+	@echo ... CSES/CSES_Increasing_Array.s
+	@echo ... CSES/CSES_Missing_Number.obj
+	@echo ... CSES/CSES_Missing_Number.i
+	@echo ... CSES/CSES_Missing_Number.s
+	@echo ... CSES/CSES_Number_Spiral.obj
+	@echo ... CSES/CSES_Number_Spiral.i
+	@echo ... CSES/CSES_Number_Spiral.s
+	@echo ... CSES/CSES_Permutations.obj
+	@echo ... CSES/CSES_Permutations.i
+	@echo ... CSES/CSES_Permutations.s
+	@echo ... CSES/CSES_Repitations.obj
+	@echo ... CSES/CSES_Repitations.i
+	@echo ... CSES/CSES_Repitations.s
+	@echo ... CSES/CSES_Tower_of_Hanoi.obj
+	@echo ... CSES/CSES_Tower_of_Hanoi.i
+	@echo ... CSES/CSES_Tower_of_Hanoi.s
+	@echo ... CSES/CSES_Trailing_Zeros.obj
+	@echo ... CSES/CSES_Trailing_Zeros.i
+	@echo ... CSES/CSES_Trailing_Zeros.s
+	@echo ... CSES/CSES_Two_Knights.obj
+	@echo ... CSES/CSES_Two_Knights.i
+	@echo ... CSES/CSES_Two_Knights.s
+	@echo ... CSES/CSES_Two_Sets.obj
+	@echo ... CSES/CSES_Two_Sets.i
+	@echo ... CSES/CSES_Two_Sets.s
+	@echo ... CSES/CSES_Weird_Algorithm.obj
+	@echo ... CSES/CSES_Weird_Algorithm.i
+	@echo ... CSES/CSES_Weird_Algorithm.s
+	@echo ... CSES/main.obj
+	@echo ... CSES/main.i
+	@echo ... CSES/main.s
 	@echo ... CodeJam_Moons_and_Umbrellas.obj
 	@echo ... CodeJam_Moons_and_Umbrellas.i
 	@echo ... CodeJam_Moons_and_Umbrellas.s
-	@echo ... main.obj
-	@echo ... main.i
-	@echo ... main.s
+	@echo ... codeforces/CF_Planet_Lapituletti.obj
+	@echo ... codeforces/CF_Planet_Lapituletti.i
+	@echo ... codeforces/CF_Planet_Lapituletti.s
 .PHONY : help
 
 

@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Number_Spiral.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Number_Spiral.dir/flags.make
 
-CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj: CMakeFiles/CSES_Number_Spiral.dir/flags.make
-CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj: ../CSES_Number_Spiral.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Number_Spiral.dir\CSES_Number_Spiral.cpp.obj -c "F:\CPP Contest\CSES_Number_Spiral.cpp"
+CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj: CMakeFiles/CSES_Number_Spiral.dir/flags.make
+CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj: ../CSES/CSES_Number_Spiral.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Number_Spiral.dir\CSES\CSES_Number_Spiral.cpp.obj -c "F:\CPP Contest\CSES\CSES_Number_Spiral.cpp"
 
-CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Number_Spiral.cpp" > CMakeFiles\CSES_Number_Spiral.dir\CSES_Number_Spiral.cpp.i
+CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Number_Spiral.cpp" > CMakeFiles\CSES_Number_Spiral.dir\CSES\CSES_Number_Spiral.cpp.i
 
-CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Number_Spiral.cpp" -o CMakeFiles\CSES_Number_Spiral.dir\CSES_Number_Spiral.cpp.s
+CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Number_Spiral.cpp" -o CMakeFiles\CSES_Number_Spiral.dir\CSES\CSES_Number_Spiral.cpp.s
 
 # Object files for target CSES_Number_Spiral
 CSES_Number_Spiral_OBJECTS = \
-"CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj"
+"CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj"
 
 # External object files for target CSES_Number_Spiral
 CSES_Number_Spiral_EXTERNAL_OBJECTS =
 
-CSES_Number_Spiral.exe: CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj
+CSES_Number_Spiral.exe: CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj
 CSES_Number_Spiral.exe: CMakeFiles/CSES_Number_Spiral.dir/build.make
 CSES_Number_Spiral.exe: CMakeFiles/CSES_Number_Spiral.dir/linklibs.rsp
 CSES_Number_Spiral.exe: CMakeFiles/CSES_Number_Spiral.dir/objects1.rsp

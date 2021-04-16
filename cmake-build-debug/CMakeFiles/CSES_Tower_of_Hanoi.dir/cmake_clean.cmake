@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj"
+  "CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj"
   "CSES_Tower_of_Hanoi.exe"
   "CSES_Tower_of_Hanoi.exe.manifest"
   "CSES_Tower_of_Hanoi.pdb"

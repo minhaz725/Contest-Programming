@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Permutations.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Permutations.dir/flags.make
 
-CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj: CMakeFiles/CSES_Permutations.dir/flags.make
-CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj: ../CSES_Permutations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Permutations.dir\CSES_Permutations.cpp.obj -c "F:\CPP Contest\CSES_Permutations.cpp"
+CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.obj: CMakeFiles/CSES_Permutations.dir/flags.make
+CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.obj: ../CSES/CSES_Permutations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Permutations.dir\CSES\CSES_Permutations.cpp.obj -c "F:\CPP Contest\CSES\CSES_Permutations.cpp"
 
-CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Permutations.cpp" > CMakeFiles\CSES_Permutations.dir\CSES_Permutations.cpp.i
+CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Permutations.cpp" > CMakeFiles\CSES_Permutations.dir\CSES\CSES_Permutations.cpp.i
 
-CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Permutations.cpp" -o CMakeFiles\CSES_Permutations.dir\CSES_Permutations.cpp.s
+CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Permutations.cpp" -o CMakeFiles\CSES_Permutations.dir\CSES\CSES_Permutations.cpp.s
 
 # Object files for target CSES_Permutations
 CSES_Permutations_OBJECTS = \
-"CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj"
+"CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.obj"
 
 # External object files for target CSES_Permutations
 CSES_Permutations_EXTERNAL_OBJECTS =
 
-CSES_Permutations.exe: CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj
+CSES_Permutations.exe: CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.obj
 CSES_Permutations.exe: CMakeFiles/CSES_Permutations.dir/build.make
 CSES_Permutations.exe: CMakeFiles/CSES_Permutations.dir/linklibs.rsp
 CSES_Permutations.exe: CMakeFiles/CSES_Permutations.dir/objects1.rsp

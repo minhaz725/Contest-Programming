@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/CPP Contest/CF_Planet_Lapituletti.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj"
+  "F:/CPP Contest/codeforces/CF_Planet_Lapituletti.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

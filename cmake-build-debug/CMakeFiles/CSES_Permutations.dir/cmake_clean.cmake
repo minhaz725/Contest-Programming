@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Permutations.dir/CSES_Permutations.cpp.obj"
+  "CMakeFiles/CSES_Permutations.dir/CSES/CSES_Permutations.cpp.obj"
   "CSES_Permutations.exe"
   "CSES_Permutations.exe.manifest"
   "CSES_Permutations.pdb"

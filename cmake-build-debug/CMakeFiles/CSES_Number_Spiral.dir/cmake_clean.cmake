@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Number_Spiral.dir/CSES_Number_Spiral.cpp.obj"
+  "CMakeFiles/CSES_Number_Spiral.dir/CSES/CSES_Number_Spiral.cpp.obj"
   "CSES_Number_Spiral.exe"
   "CSES_Number_Spiral.exe.manifest"
   "CSES_Number_Spiral.pdb"

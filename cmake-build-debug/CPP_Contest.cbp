@@ -710,68 +710,68 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="F:/CPP Contest/CF_Planet_Lapituletti.cpp">
-			<Option target="CPP_Contest"/>
-			<Option target="CF_Planet_Lapituletti"/>
-		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Bit_Strings.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Bit_Strings.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Bit_Strings"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Coin_Piles.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Coin_Piles.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Coin_Piles"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Gray_Code.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Gray_Code.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Gray_Code"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Increasing_Array.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Increasing_Array.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Increasing_Array"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Missing_Number.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Missing_Number.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Missing_Number"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Number_Spiral.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Number_Spiral.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Number_Spiral"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Permutations.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Permutations.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Permutations"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Repitations.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Repitations.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Repitations"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Tower_of_Hanoi.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Tower_of_Hanoi.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Tower_of_Hanoi"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Trailing_Zeros.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Trailing_Zeros.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Trailing_Zeros"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Two_Knights.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Two_Knights.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Two_Knights"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Two_Sets.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Two_Sets.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Two_Sets"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/CSES_Weird_Algorithm.cpp">
+		<Unit filename="F:/CPP Contest/CSES/CSES_Weird_Algorithm.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CSES_Weird_Algorithm"/>
+		</Unit>
+		<Unit filename="F:/CPP Contest/CSES/main.cpp">
+			<Option target="CPP_Contest"/>
 		</Unit>
 		<Unit filename="F:/CPP Contest/CodeJam_Moons_and_Umbrellas.cpp">
 			<Option target="CPP_Contest"/>
 			<Option target="CodeJam_Moons_and_Umbrellas"/>
 		</Unit>
-		<Unit filename="F:/CPP Contest/main.cpp">
+		<Unit filename="F:/CPP Contest/codeforces/CF_Planet_Lapituletti.cpp">
 			<Option target="CPP_Contest"/>
+			<Option target="CF_Planet_Lapituletti"/>
 		</Unit>
 		<Unit filename="F:/CPP Contest/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

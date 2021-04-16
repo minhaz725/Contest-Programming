@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Tower_of_Hanoi.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Tower_of_Hanoi.dir/flags.make
 
-CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj: CMakeFiles/CSES_Tower_of_Hanoi.dir/flags.make
-CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj: ../CSES_Tower_of_Hanoi.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Tower_of_Hanoi.dir\CSES_Tower_of_Hanoi.cpp.obj -c "F:\CPP Contest\CSES_Tower_of_Hanoi.cpp"
+CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj: CMakeFiles/CSES_Tower_of_Hanoi.dir/flags.make
+CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj: ../CSES/CSES_Tower_of_Hanoi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Tower_of_Hanoi.dir\CSES\CSES_Tower_of_Hanoi.cpp.obj -c "F:\CPP Contest\CSES\CSES_Tower_of_Hanoi.cpp"
 
-CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Tower_of_Hanoi.cpp" > CMakeFiles\CSES_Tower_of_Hanoi.dir\CSES_Tower_of_Hanoi.cpp.i
+CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Tower_of_Hanoi.cpp" > CMakeFiles\CSES_Tower_of_Hanoi.dir\CSES\CSES_Tower_of_Hanoi.cpp.i
 
-CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Tower_of_Hanoi.cpp" -o CMakeFiles\CSES_Tower_of_Hanoi.dir\CSES_Tower_of_Hanoi.cpp.s
+CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Tower_of_Hanoi.cpp" -o CMakeFiles\CSES_Tower_of_Hanoi.dir\CSES\CSES_Tower_of_Hanoi.cpp.s
 
 # Object files for target CSES_Tower_of_Hanoi
 CSES_Tower_of_Hanoi_OBJECTS = \
-"CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj"
+"CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj"
 
 # External object files for target CSES_Tower_of_Hanoi
 CSES_Tower_of_Hanoi_EXTERNAL_OBJECTS =
 
-CSES_Tower_of_Hanoi.exe: CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj
+CSES_Tower_of_Hanoi.exe: CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES/CSES_Tower_of_Hanoi.cpp.obj
 CSES_Tower_of_Hanoi.exe: CMakeFiles/CSES_Tower_of_Hanoi.dir/build.make
 CSES_Tower_of_Hanoi.exe: CMakeFiles/CSES_Tower_of_Hanoi.dir/linklibs.rsp
 CSES_Tower_of_Hanoi.exe: CMakeFiles/CSES_Tower_of_Hanoi.dir/objects1.rsp

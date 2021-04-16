@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "F:/CPP Contest/CSES_Missing_Number.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj"
+  "F:/CPP Contest/CSES/CSES_Missing_Number.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

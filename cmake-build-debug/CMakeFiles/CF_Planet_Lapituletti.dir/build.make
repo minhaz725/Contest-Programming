@@ -76,27 +76,27 @@ include CMakeFiles/CF_Planet_Lapituletti.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CF_Planet_Lapituletti.dir/flags.make
 
-CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj: CMakeFiles/CF_Planet_Lapituletti.dir/flags.make
-CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj: ../CF_Planet_Lapituletti.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CF_Planet_Lapituletti.dir\CF_Planet_Lapituletti.cpp.obj -c "F:\CPP Contest\CF_Planet_Lapituletti.cpp"
+CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.obj: CMakeFiles/CF_Planet_Lapituletti.dir/flags.make
+CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.obj: ../codeforces/CF_Planet_Lapituletti.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CF_Planet_Lapituletti.dir\codeforces\CF_Planet_Lapituletti.cpp.obj -c "F:\CPP Contest\codeforces\CF_Planet_Lapituletti.cpp"
 
-CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CF_Planet_Lapituletti.cpp" > CMakeFiles\CF_Planet_Lapituletti.dir\CF_Planet_Lapituletti.cpp.i
+CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\codeforces\CF_Planet_Lapituletti.cpp" > CMakeFiles\CF_Planet_Lapituletti.dir\codeforces\CF_Planet_Lapituletti.cpp.i
 
-CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CF_Planet_Lapituletti.cpp" -o CMakeFiles\CF_Planet_Lapituletti.dir\CF_Planet_Lapituletti.cpp.s
+CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\codeforces\CF_Planet_Lapituletti.cpp" -o CMakeFiles\CF_Planet_Lapituletti.dir\codeforces\CF_Planet_Lapituletti.cpp.s
 
 # Object files for target CF_Planet_Lapituletti
 CF_Planet_Lapituletti_OBJECTS = \
-"CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj"
+"CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.obj"
 
 # External object files for target CF_Planet_Lapituletti
 CF_Planet_Lapituletti_EXTERNAL_OBJECTS =
 
-CF_Planet_Lapituletti.exe: CMakeFiles/CF_Planet_Lapituletti.dir/CF_Planet_Lapituletti.cpp.obj
+CF_Planet_Lapituletti.exe: CMakeFiles/CF_Planet_Lapituletti.dir/codeforces/CF_Planet_Lapituletti.cpp.obj
 CF_Planet_Lapituletti.exe: CMakeFiles/CF_Planet_Lapituletti.dir/build.make
 CF_Planet_Lapituletti.exe: CMakeFiles/CF_Planet_Lapituletti.dir/linklibs.rsp
 CF_Planet_Lapituletti.exe: CMakeFiles/CF_Planet_Lapituletti.dir/objects1.rsp

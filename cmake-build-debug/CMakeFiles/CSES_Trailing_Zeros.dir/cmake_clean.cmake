@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Trailing_Zeros.dir/CSES_Trailing_Zeros.cpp.obj"
+  "CMakeFiles/CSES_Trailing_Zeros.dir/CSES/CSES_Trailing_Zeros.cpp.obj"
   "CSES_Trailing_Zeros.exe"
   "CSES_Trailing_Zeros.exe.manifest"
   "CSES_Trailing_Zeros.pdb"

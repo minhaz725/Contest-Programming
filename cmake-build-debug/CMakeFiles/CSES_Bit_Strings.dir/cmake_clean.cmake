@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj"
+  "CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.obj"
   "CSES_Bit_Strings.exe"
   "CSES_Bit_Strings.exe.manifest"
   "CSES_Bit_Strings.pdb"

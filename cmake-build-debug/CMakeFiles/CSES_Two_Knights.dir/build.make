@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Two_Knights.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Two_Knights.dir/flags.make
 
-CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj: CMakeFiles/CSES_Two_Knights.dir/flags.make
-CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj: ../CSES_Two_Knights.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Two_Knights.dir\CSES_Two_Knights.cpp.obj -c "F:\CPP Contest\CSES_Two_Knights.cpp"
+CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.obj: CMakeFiles/CSES_Two_Knights.dir/flags.make
+CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.obj: ../CSES/CSES_Two_Knights.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Two_Knights.dir\CSES\CSES_Two_Knights.cpp.obj -c "F:\CPP Contest\CSES\CSES_Two_Knights.cpp"
 
-CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Two_Knights.cpp" > CMakeFiles\CSES_Two_Knights.dir\CSES_Two_Knights.cpp.i
+CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Two_Knights.cpp" > CMakeFiles\CSES_Two_Knights.dir\CSES\CSES_Two_Knights.cpp.i
 
-CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Two_Knights.cpp" -o CMakeFiles\CSES_Two_Knights.dir\CSES_Two_Knights.cpp.s
+CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Two_Knights.cpp" -o CMakeFiles\CSES_Two_Knights.dir\CSES\CSES_Two_Knights.cpp.s
 
 # Object files for target CSES_Two_Knights
 CSES_Two_Knights_OBJECTS = \
-"CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj"
+"CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.obj"
 
 # External object files for target CSES_Two_Knights
 CSES_Two_Knights_EXTERNAL_OBJECTS =
 
-CSES_Two_Knights.exe: CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj
+CSES_Two_Knights.exe: CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.obj
 CSES_Two_Knights.exe: CMakeFiles/CSES_Two_Knights.dir/build.make
 CSES_Two_Knights.exe: CMakeFiles/CSES_Two_Knights.dir/linklibs.rsp
 CSES_Two_Knights.exe: CMakeFiles/CSES_Two_Knights.dir/objects1.rsp

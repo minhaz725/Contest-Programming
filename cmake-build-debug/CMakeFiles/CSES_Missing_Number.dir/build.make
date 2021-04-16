@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Missing_Number.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Missing_Number.dir/flags.make
 
-CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj: CMakeFiles/CSES_Missing_Number.dir/flags.make
-CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj: ../CSES_Missing_Number.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Missing_Number.dir\CSES_Missing_Number.cpp.obj -c "F:\CPP Contest\CSES_Missing_Number.cpp"
+CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj: CMakeFiles/CSES_Missing_Number.dir/flags.make
+CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj: ../CSES/CSES_Missing_Number.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Missing_Number.dir\CSES\CSES_Missing_Number.cpp.obj -c "F:\CPP Contest\CSES\CSES_Missing_Number.cpp"
 
-CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Missing_Number.cpp" > CMakeFiles\CSES_Missing_Number.dir\CSES_Missing_Number.cpp.i
+CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Missing_Number.cpp" > CMakeFiles\CSES_Missing_Number.dir\CSES\CSES_Missing_Number.cpp.i
 
-CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Missing_Number.cpp" -o CMakeFiles\CSES_Missing_Number.dir\CSES_Missing_Number.cpp.s
+CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Missing_Number.cpp" -o CMakeFiles\CSES_Missing_Number.dir\CSES\CSES_Missing_Number.cpp.s
 
 # Object files for target CSES_Missing_Number
 CSES_Missing_Number_OBJECTS = \
-"CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj"
+"CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj"
 
 # External object files for target CSES_Missing_Number
 CSES_Missing_Number_EXTERNAL_OBJECTS =
 
-CSES_Missing_Number.exe: CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj
+CSES_Missing_Number.exe: CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj
 CSES_Missing_Number.exe: CMakeFiles/CSES_Missing_Number.dir/build.make
 CSES_Missing_Number.exe: CMakeFiles/CSES_Missing_Number.dir/linklibs.rsp
 CSES_Missing_Number.exe: CMakeFiles/CSES_Missing_Number.dir/objects1.rsp

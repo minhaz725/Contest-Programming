@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Coin_Piles.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Coin_Piles.dir/flags.make
 
-CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj: CMakeFiles/CSES_Coin_Piles.dir/flags.make
-CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj: ../CSES_Coin_Piles.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Coin_Piles.dir\CSES_Coin_Piles.cpp.obj -c "F:\CPP Contest\CSES_Coin_Piles.cpp"
+CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.obj: CMakeFiles/CSES_Coin_Piles.dir/flags.make
+CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.obj: ../CSES/CSES_Coin_Piles.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Coin_Piles.dir\CSES\CSES_Coin_Piles.cpp.obj -c "F:\CPP Contest\CSES\CSES_Coin_Piles.cpp"
 
-CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Coin_Piles.cpp" > CMakeFiles\CSES_Coin_Piles.dir\CSES_Coin_Piles.cpp.i
+CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Coin_Piles.cpp" > CMakeFiles\CSES_Coin_Piles.dir\CSES\CSES_Coin_Piles.cpp.i
 
-CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Coin_Piles.cpp" -o CMakeFiles\CSES_Coin_Piles.dir\CSES_Coin_Piles.cpp.s
+CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Coin_Piles.cpp" -o CMakeFiles\CSES_Coin_Piles.dir\CSES\CSES_Coin_Piles.cpp.s
 
 # Object files for target CSES_Coin_Piles
 CSES_Coin_Piles_OBJECTS = \
-"CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj"
+"CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.obj"
 
 # External object files for target CSES_Coin_Piles
 CSES_Coin_Piles_EXTERNAL_OBJECTS =
 
-CSES_Coin_Piles.exe: CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj
+CSES_Coin_Piles.exe: CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.obj
 CSES_Coin_Piles.exe: CMakeFiles/CSES_Coin_Piles.dir/build.make
 CSES_Coin_Piles.exe: CMakeFiles/CSES_Coin_Piles.dir/linklibs.rsp
 CSES_Coin_Piles.exe: CMakeFiles/CSES_Coin_Piles.dir/objects1.rsp

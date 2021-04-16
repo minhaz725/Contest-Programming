@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Two_Knights.dir/CSES_Two_Knights.cpp.obj"
+  "CMakeFiles/CSES_Two_Knights.dir/CSES/CSES_Two_Knights.cpp.obj"
   "CSES_Two_Knights.exe"
   "CSES_Two_Knights.exe.manifest"
   "CSES_Two_Knights.pdb"

@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Bit_Strings.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Bit_Strings.dir/flags.make
 
-CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj: CMakeFiles/CSES_Bit_Strings.dir/flags.make
-CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj: ../CSES_Bit_Strings.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Bit_Strings.dir\CSES_Bit_Strings.cpp.obj -c "F:\CPP Contest\CSES_Bit_Strings.cpp"
+CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.obj: CMakeFiles/CSES_Bit_Strings.dir/flags.make
+CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.obj: ../CSES/CSES_Bit_Strings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Bit_Strings.dir\CSES\CSES_Bit_Strings.cpp.obj -c "F:\CPP Contest\CSES\CSES_Bit_Strings.cpp"
 
-CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Bit_Strings.cpp" > CMakeFiles\CSES_Bit_Strings.dir\CSES_Bit_Strings.cpp.i
+CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Bit_Strings.cpp" > CMakeFiles\CSES_Bit_Strings.dir\CSES\CSES_Bit_Strings.cpp.i
 
-CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Bit_Strings.cpp" -o CMakeFiles\CSES_Bit_Strings.dir\CSES_Bit_Strings.cpp.s
+CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Bit_Strings.cpp" -o CMakeFiles\CSES_Bit_Strings.dir\CSES\CSES_Bit_Strings.cpp.s
 
 # Object files for target CSES_Bit_Strings
 CSES_Bit_Strings_OBJECTS = \
-"CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj"
+"CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.obj"
 
 # External object files for target CSES_Bit_Strings
 CSES_Bit_Strings_EXTERNAL_OBJECTS =
 
-CSES_Bit_Strings.exe: CMakeFiles/CSES_Bit_Strings.dir/CSES_Bit_Strings.cpp.obj
+CSES_Bit_Strings.exe: CMakeFiles/CSES_Bit_Strings.dir/CSES/CSES_Bit_Strings.cpp.obj
 CSES_Bit_Strings.exe: CMakeFiles/CSES_Bit_Strings.dir/build.make
 CSES_Bit_Strings.exe: CMakeFiles/CSES_Bit_Strings.dir/linklibs.rsp
 CSES_Bit_Strings.exe: CMakeFiles/CSES_Bit_Strings.dir/objects1.rsp

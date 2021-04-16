@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Missing_Number.dir/CSES_Missing_Number.cpp.obj"
+  "CMakeFiles/CSES_Missing_Number.dir/CSES/CSES_Missing_Number.cpp.obj"
   "CSES_Missing_Number.exe"
   "CSES_Missing_Number.exe.manifest"
   "CSES_Missing_Number.pdb"

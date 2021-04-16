@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Increasing_Array.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Increasing_Array.dir/flags.make
 
-CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.obj: CMakeFiles/CSES_Increasing_Array.dir/flags.make
-CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.obj: ../CSES_Increasing_Array.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Increasing_Array.dir\CSES_Increasing_Array.cpp.obj -c "F:\CPP Contest\CSES_Increasing_Array.cpp"
+CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.obj: CMakeFiles/CSES_Increasing_Array.dir/flags.make
+CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.obj: ../CSES/CSES_Increasing_Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Increasing_Array.dir\CSES\CSES_Increasing_Array.cpp.obj -c "F:\CPP Contest\CSES\CSES_Increasing_Array.cpp"
 
-CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Increasing_Array.cpp" > CMakeFiles\CSES_Increasing_Array.dir\CSES_Increasing_Array.cpp.i
+CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Increasing_Array.cpp" > CMakeFiles\CSES_Increasing_Array.dir\CSES\CSES_Increasing_Array.cpp.i
 
-CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Increasing_Array.cpp" -o CMakeFiles\CSES_Increasing_Array.dir\CSES_Increasing_Array.cpp.s
+CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Increasing_Array.cpp" -o CMakeFiles\CSES_Increasing_Array.dir\CSES\CSES_Increasing_Array.cpp.s
 
 # Object files for target CSES_Increasing_Array
 CSES_Increasing_Array_OBJECTS = \
-"CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.obj"
+"CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.obj"
 
 # External object files for target CSES_Increasing_Array
 CSES_Increasing_Array_EXTERNAL_OBJECTS =
 
-CSES_Increasing_Array.exe: CMakeFiles/CSES_Increasing_Array.dir/CSES_Increasing_Array.cpp.obj
+CSES_Increasing_Array.exe: CMakeFiles/CSES_Increasing_Array.dir/CSES/CSES_Increasing_Array.cpp.obj
 CSES_Increasing_Array.exe: CMakeFiles/CSES_Increasing_Array.dir/build.make
 CSES_Increasing_Array.exe: CMakeFiles/CSES_Increasing_Array.dir/linklibs.rsp
 CSES_Increasing_Array.exe: CMakeFiles/CSES_Increasing_Array.dir/objects1.rsp

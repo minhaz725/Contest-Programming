@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Coin_Piles.dir/CSES_Coin_Piles.cpp.obj"
+  "CMakeFiles/CSES_Coin_Piles.dir/CSES/CSES_Coin_Piles.cpp.obj"
   "CSES_Coin_Piles.exe"
   "CSES_Coin_Piles.exe.manifest"
   "CSES_Coin_Piles.pdb"

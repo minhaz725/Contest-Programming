@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Weird_Algorithm.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Weird_Algorithm.dir/flags.make
 
-CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.obj: CMakeFiles/CSES_Weird_Algorithm.dir/flags.make
-CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.obj: ../CSES_Weird_Algorithm.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Weird_Algorithm.dir\CSES_Weird_Algorithm.cpp.obj -c "F:\CPP Contest\CSES_Weird_Algorithm.cpp"
+CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.obj: CMakeFiles/CSES_Weird_Algorithm.dir/flags.make
+CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.obj: ../CSES/CSES_Weird_Algorithm.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Weird_Algorithm.dir\CSES\CSES_Weird_Algorithm.cpp.obj -c "F:\CPP Contest\CSES\CSES_Weird_Algorithm.cpp"
 
-CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Weird_Algorithm.cpp" > CMakeFiles\CSES_Weird_Algorithm.dir\CSES_Weird_Algorithm.cpp.i
+CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Weird_Algorithm.cpp" > CMakeFiles\CSES_Weird_Algorithm.dir\CSES\CSES_Weird_Algorithm.cpp.i
 
-CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Weird_Algorithm.cpp" -o CMakeFiles\CSES_Weird_Algorithm.dir\CSES_Weird_Algorithm.cpp.s
+CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Weird_Algorithm.cpp" -o CMakeFiles\CSES_Weird_Algorithm.dir\CSES\CSES_Weird_Algorithm.cpp.s
 
 # Object files for target CSES_Weird_Algorithm
 CSES_Weird_Algorithm_OBJECTS = \
-"CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.obj"
+"CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.obj"
 
 # External object files for target CSES_Weird_Algorithm
 CSES_Weird_Algorithm_EXTERNAL_OBJECTS =
 
-CSES_Weird_Algorithm.exe: CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.obj
+CSES_Weird_Algorithm.exe: CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.obj
 CSES_Weird_Algorithm.exe: CMakeFiles/CSES_Weird_Algorithm.dir/build.make
 CSES_Weird_Algorithm.exe: CMakeFiles/CSES_Weird_Algorithm.dir/linklibs.rsp
 CSES_Weird_Algorithm.exe: CMakeFiles/CSES_Weird_Algorithm.dir/objects1.rsp

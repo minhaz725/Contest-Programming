@@ -76,27 +76,27 @@ include CMakeFiles/CSES_Repitations.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/CSES_Repitations.dir/flags.make
 
-CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj: CMakeFiles/CSES_Repitations.dir/flags.make
-CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj: ../CSES_Repitations.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Repitations.dir\CSES_Repitations.cpp.obj -c "F:\CPP Contest\CSES_Repitations.cpp"
+CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.obj: CMakeFiles/CSES_Repitations.dir/flags.make
+CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.obj: ../CSES/CSES_Repitations.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CSES_Repitations.dir\CSES\CSES_Repitations.cpp.obj -c "F:\CPP Contest\CSES\CSES_Repitations.cpp"
 
-CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.i"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Repitations.cpp" > CMakeFiles\CSES_Repitations.dir\CSES_Repitations.cpp.i
+CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES\CSES_Repitations.cpp" > CMakeFiles\CSES_Repitations.dir\CSES\CSES_Repitations.cpp.i
 
-CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.s"
-	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Repitations.cpp" -o CMakeFiles\CSES_Repitations.dir\CSES_Repitations.cpp.s
+CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES\CSES_Repitations.cpp" -o CMakeFiles\CSES_Repitations.dir\CSES\CSES_Repitations.cpp.s
 
 # Object files for target CSES_Repitations
 CSES_Repitations_OBJECTS = \
-"CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj"
+"CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.obj"
 
 # External object files for target CSES_Repitations
 CSES_Repitations_EXTERNAL_OBJECTS =
 
-CSES_Repitations.exe: CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj
+CSES_Repitations.exe: CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.obj
 CSES_Repitations.exe: CMakeFiles/CSES_Repitations.dir/build.make
 CSES_Repitations.exe: CMakeFiles/CSES_Repitations.dir/linklibs.rsp
 CSES_Repitations.exe: CMakeFiles/CSES_Repitations.dir/objects1.rsp

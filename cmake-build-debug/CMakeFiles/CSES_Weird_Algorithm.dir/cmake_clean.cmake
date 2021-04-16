@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.obj"
+  "CMakeFiles/CSES_Weird_Algorithm.dir/CSES/CSES_Weird_Algorithm.cpp.obj"
   "CSES_Weird_Algorithm.exe"
   "CSES_Weird_Algorithm.exe.manifest"
   "CSES_Weird_Algorithm.pdb"

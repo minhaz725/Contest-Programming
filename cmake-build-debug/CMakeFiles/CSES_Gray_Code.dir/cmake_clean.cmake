@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Gray_Code.dir/CSES_Gray_Code.cpp.obj"
+  "CMakeFiles/CSES_Gray_Code.dir/CSES/CSES_Gray_Code.cpp.obj"
   "CSES_Gray_Code.exe"
   "CSES_Gray_Code.exe.manifest"
   "CSES_Gray_Code.pdb"

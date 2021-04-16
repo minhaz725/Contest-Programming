@@ -1,5 +1,5 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.obj"
+  "CMakeFiles/CSES_Repitations.dir/CSES/CSES_Repitations.cpp.obj"
   "CSES_Repitations.exe"
   "CSES_Repitations.exe.manifest"
   "CSES_Repitations.pdb"
