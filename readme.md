@@ -1,0 +1,1 @@
+It's a repo about my sad and short history of contest programming :(
