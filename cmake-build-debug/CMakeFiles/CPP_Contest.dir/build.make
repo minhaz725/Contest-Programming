@@ -258,6 +258,32 @@ CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.s"
 	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Gray_Code.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Gray_Code.cpp.s
 
+CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj: ../CSES_Tower_of_Hanoi.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CSES_Tower_of_Hanoi.cpp.obj -c "F:\CPP Contest\CSES_Tower_of_Hanoi.cpp"
+
+CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CSES_Tower_of_Hanoi.cpp" > CMakeFiles\CPP_Contest.dir\CSES_Tower_of_Hanoi.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CSES_Tower_of_Hanoi.cpp" -o CMakeFiles\CPP_Contest.dir\CSES_Tower_of_Hanoi.cpp.s
+
+CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.obj: CMakeFiles/CPP_Contest.dir/flags.make
+CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.obj: ../CodeJam_Moons_and_Umbrellas.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.obj"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\CPP_Contest.dir\CodeJam_Moons_and_Umbrellas.cpp.obj -c "F:\CPP Contest\CodeJam_Moons_and_Umbrellas.cpp"
+
+CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.i"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "F:\CPP Contest\CodeJam_Moons_and_Umbrellas.cpp" > CMakeFiles\CPP_Contest.dir\CodeJam_Moons_and_Umbrellas.cpp.i
+
+CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.s"
+	C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "F:\CPP Contest\CodeJam_Moons_and_Umbrellas.cpp" -o CMakeFiles\CPP_Contest.dir\CodeJam_Moons_and_Umbrellas.cpp.s
+
 # Object files for target CPP_Contest
 CPP_Contest_OBJECTS = \
 "CMakeFiles/CPP_Contest.dir/main.cpp.obj" \
@@ -273,7 +299,9 @@ CPP_Contest_OBJECTS = \
 "CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj" \
 "CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj" \
 "CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj" \
-"CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj"
+"CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj" \
+"CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.obj"
 
 # External object files for target CPP_Contest
 CPP_Contest_EXTERNAL_OBJECTS =
@@ -292,11 +320,13 @@ CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Bit_Strings.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Coin_Piles.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Gray_Code.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj
+CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.obj
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/build.make
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/linklibs.rsp
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/objects1.rsp
 CPP_Contest.exe: CMakeFiles/CPP_Contest.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_15) "Linking CXX executable CPP_Contest.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=$(CMAKE_PROGRESS_17) "Linking CXX executable CPP_Contest.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\CPP_Contest.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -2,6 +2,7 @@ F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Increasing_Array.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Number_Spiral.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CF_Planet_Lapituletti.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Tower_of_Hanoi.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Weird_Algorithm.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Missing_Number.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Repitations.dir
@@ -13,4 +14,5 @@ F:/CPP Contest/cmake-build-debug/CMakeFiles/edit_cache.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Trailing_Zeros.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Coin_Piles.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/CSES_Gray_Code.dir
+F:/CPP Contest/cmake-build-debug/CMakeFiles/CodeJam_Moons_and_Umbrellas.dir
 F:/CPP Contest/cmake-build-debug/CMakeFiles/rebuild_cache.dir

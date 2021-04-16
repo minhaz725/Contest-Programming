@@ -3,7 +3,7 @@ project(CPP_Contest)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CPP_Contest main.cpp CSES_Weird_Algorithm.cpp CSES_Missing_Number.cpp CSES_Repitations.cpp CSES_Increasing_Array.cpp CSES_Permutations.cpp CF_Planet_Lapituletti.cpp CSES_Number_Spiral.cpp CSES_Two_Knights.cpp CSES_Two_Sets.cpp CSES_Bit_Strings.cpp CSES_Trailing_Zeros.cpp CSES_Coin_Piles.cpp CSES_Gray_Code.cpp)
+add_executable(CPP_Contest main.cpp CSES_Weird_Algorithm.cpp CSES_Missing_Number.cpp CSES_Repitations.cpp CSES_Increasing_Array.cpp CSES_Permutations.cpp CF_Planet_Lapituletti.cpp CSES_Number_Spiral.cpp CSES_Two_Knights.cpp CSES_Two_Sets.cpp CSES_Bit_Strings.cpp CSES_Trailing_Zeros.cpp CSES_Coin_Piles.cpp CSES_Gray_Code.cpp CSES_Tower_of_Hanoi.cpp CodeJam_Moons_and_Umbrellas.cpp)
 add_executable(CSES_Weird_Algorithm CSES_Weird_Algorithm.cpp)
 add_executable(CSES_Missing_Number CSES_Missing_Number.cpp)
 add_executable(CSES_Repitations CSES_Repitations.cpp)
@@ -17,3 +17,6 @@ add_executable(CSES_Bit_Strings CSES_Bit_Strings.cpp)
 add_executable(CSES_Trailing_Zeros CSES_Trailing_Zeros.cpp)
 add_executable(CSES_Coin_Piles "CSES_Coin_Piles.cpp")
 add_executable(CSES_Gray_Code CSES_Gray_Code.cpp)
+add_executable(CSES_Tower_of_Hanoi CSES_Tower_of_Hanoi.cpp)
+
+add_executable(CodeJam_Moons_and_Umbrellas CodeJam_Moons_and_Umbrellas.cpp)

@@ -182,6 +182,19 @@ CF_Planet_Lapituletti/fast:
 .PHONY : CF_Planet_Lapituletti/fast
 
 #=============================================================================
+# Target rules for targets named CSES_Tower_of_Hanoi
+
+# Build rule for target.
+CSES_Tower_of_Hanoi: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CSES_Tower_of_Hanoi
+.PHONY : CSES_Tower_of_Hanoi
+
+# fast build rule for target.
+CSES_Tower_of_Hanoi/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/build
+.PHONY : CSES_Tower_of_Hanoi/fast
+
+#=============================================================================
 # Target rules for targets named CSES_Weird_Algorithm
 
 # Build rule for target.
@@ -310,6 +323,19 @@ CSES_Gray_Code: cmake_check_build_system
 CSES_Gray_Code/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/build
 .PHONY : CSES_Gray_Code/fast
+
+#=============================================================================
+# Target rules for targets named CodeJam_Moons_and_Umbrellas
+
+# Build rule for target.
+CodeJam_Moons_and_Umbrellas: cmake_check_build_system
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CodeJam_Moons_and_Umbrellas
+.PHONY : CodeJam_Moons_and_Umbrellas
+
+# fast build rule for target.
+CodeJam_Moons_and_Umbrellas/fast:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/build
+.PHONY : CodeJam_Moons_and_Umbrellas/fast
 
 CF_Planet_Lapituletti.obj: CF_Planet_Lapituletti.cpp.obj
 
@@ -581,6 +607,36 @@ CSES_Repitations.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/CSES_Repitations.cpp.s
 .PHONY : CSES_Repitations.cpp.s
 
+CSES_Tower_of_Hanoi.obj: CSES_Tower_of_Hanoi.cpp.obj
+
+.PHONY : CSES_Tower_of_Hanoi.obj
+
+# target to build an object file
+CSES_Tower_of_Hanoi.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.obj
+.PHONY : CSES_Tower_of_Hanoi.cpp.obj
+
+CSES_Tower_of_Hanoi.i: CSES_Tower_of_Hanoi.cpp.i
+
+.PHONY : CSES_Tower_of_Hanoi.i
+
+# target to preprocess a source file
+CSES_Tower_of_Hanoi.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.i
+.PHONY : CSES_Tower_of_Hanoi.cpp.i
+
+CSES_Tower_of_Hanoi.s: CSES_Tower_of_Hanoi.cpp.s
+
+.PHONY : CSES_Tower_of_Hanoi.s
+
+# target to generate assembly for a file
+CSES_Tower_of_Hanoi.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/CSES_Tower_of_Hanoi.cpp.s
+.PHONY : CSES_Tower_of_Hanoi.cpp.s
+
 CSES_Trailing_Zeros.obj: CSES_Trailing_Zeros.cpp.obj
 
 .PHONY : CSES_Trailing_Zeros.obj
@@ -701,6 +757,36 @@ CSES_Weird_Algorithm.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/CSES_Weird_Algorithm.cpp.s
 .PHONY : CSES_Weird_Algorithm.cpp.s
 
+CodeJam_Moons_and_Umbrellas.obj: CodeJam_Moons_and_Umbrellas.cpp.obj
+
+.PHONY : CodeJam_Moons_and_Umbrellas.obj
+
+# target to build an object file
+CodeJam_Moons_and_Umbrellas.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.obj
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/CodeJam_Moons_and_Umbrellas.cpp.obj
+.PHONY : CodeJam_Moons_and_Umbrellas.cpp.obj
+
+CodeJam_Moons_and_Umbrellas.i: CodeJam_Moons_and_Umbrellas.cpp.i
+
+.PHONY : CodeJam_Moons_and_Umbrellas.i
+
+# target to preprocess a source file
+CodeJam_Moons_and_Umbrellas.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.i
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/CodeJam_Moons_and_Umbrellas.cpp.i
+.PHONY : CodeJam_Moons_and_Umbrellas.cpp.i
+
+CodeJam_Moons_and_Umbrellas.s: CodeJam_Moons_and_Umbrellas.cpp.s
+
+.PHONY : CodeJam_Moons_and_Umbrellas.s
+
+# target to generate assembly for a file
+CodeJam_Moons_and_Umbrellas.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.s
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/CodeJam_Moons_and_Umbrellas.cpp.s
+.PHONY : CodeJam_Moons_and_Umbrellas.cpp.s
+
 main.obj: main.cpp.obj
 
 .PHONY : main.obj
@@ -746,10 +832,12 @@ help:
 	@echo ... CSES_Number_Spiral
 	@echo ... CSES_Permutations
 	@echo ... CSES_Repitations
+	@echo ... CSES_Tower_of_Hanoi
 	@echo ... CSES_Trailing_Zeros
 	@echo ... CSES_Two_Knights
 	@echo ... CSES_Two_Sets
 	@echo ... CSES_Weird_Algorithm
+	@echo ... CodeJam_Moons_and_Umbrellas
 	@echo ... CF_Planet_Lapituletti.obj
 	@echo ... CF_Planet_Lapituletti.i
 	@echo ... CF_Planet_Lapituletti.s
@@ -777,6 +865,9 @@ help:
 	@echo ... CSES_Repitations.obj
 	@echo ... CSES_Repitations.i
 	@echo ... CSES_Repitations.s
+	@echo ... CSES_Tower_of_Hanoi.obj
+	@echo ... CSES_Tower_of_Hanoi.i
+	@echo ... CSES_Tower_of_Hanoi.s
 	@echo ... CSES_Trailing_Zeros.obj
 	@echo ... CSES_Trailing_Zeros.i
 	@echo ... CSES_Trailing_Zeros.s
@@ -789,6 +880,9 @@ help:
 	@echo ... CSES_Weird_Algorithm.obj
 	@echo ... CSES_Weird_Algorithm.i
 	@echo ... CSES_Weird_Algorithm.s
+	@echo ... CodeJam_Moons_and_Umbrellas.obj
+	@echo ... CodeJam_Moons_and_Umbrellas.i
+	@echo ... CodeJam_Moons_and_Umbrellas.s
 	@echo ... main.obj
 	@echo ... main.i
 	@echo ... main.s

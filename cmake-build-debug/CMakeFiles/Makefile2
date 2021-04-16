@@ -76,6 +76,7 @@ all: CMakeFiles/CPP_Contest.dir/all
 all: CMakeFiles/CSES_Increasing_Array.dir/all
 all: CMakeFiles/CSES_Number_Spiral.dir/all
 all: CMakeFiles/CF_Planet_Lapituletti.dir/all
+all: CMakeFiles/CSES_Tower_of_Hanoi.dir/all
 all: CMakeFiles/CSES_Weird_Algorithm.dir/all
 all: CMakeFiles/CSES_Missing_Number.dir/all
 all: CMakeFiles/CSES_Repitations.dir/all
@@ -86,6 +87,7 @@ all: CMakeFiles/CSES_Bit_Strings.dir/all
 all: CMakeFiles/CSES_Trailing_Zeros.dir/all
 all: CMakeFiles/CSES_Coin_Piles.dir/all
 all: CMakeFiles/CSES_Gray_Code.dir/all
+all: CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/all
 
 .PHONY : all
 
@@ -99,6 +101,7 @@ clean: CMakeFiles/CPP_Contest.dir/clean
 clean: CMakeFiles/CSES_Increasing_Array.dir/clean
 clean: CMakeFiles/CSES_Number_Spiral.dir/clean
 clean: CMakeFiles/CF_Planet_Lapituletti.dir/clean
+clean: CMakeFiles/CSES_Tower_of_Hanoi.dir/clean
 clean: CMakeFiles/CSES_Weird_Algorithm.dir/clean
 clean: CMakeFiles/CSES_Missing_Number.dir/clean
 clean: CMakeFiles/CSES_Repitations.dir/clean
@@ -109,6 +112,7 @@ clean: CMakeFiles/CSES_Bit_Strings.dir/clean
 clean: CMakeFiles/CSES_Trailing_Zeros.dir/clean
 clean: CMakeFiles/CSES_Coin_Piles.dir/clean
 clean: CMakeFiles/CSES_Gray_Code.dir/clean
+clean: CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/clean
 
 .PHONY : clean
 
@@ -119,12 +123,12 @@ clean: CMakeFiles/CSES_Gray_Code.dir/clean
 CMakeFiles/CPP_Contest.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CPP_Contest.dir\build.make CMakeFiles/CPP_Contest.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17 "Built target CPP_Contest"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19 "Built target CPP_Contest"
 .PHONY : CMakeFiles/CPP_Contest.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/CPP_Contest.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "F:\CPP Contest\cmake-build-debug\CMakeFiles" 15
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\CPP Contest\cmake-build-debug\CMakeFiles" 17
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CPP_Contest.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start "F:\CPP Contest\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/CPP_Contest.dir/rule
@@ -146,7 +150,7 @@ CMakeFiles/CPP_Contest.dir/clean:
 CMakeFiles/CSES_Increasing_Array.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Increasing_Array.dir\build.make CMakeFiles/CSES_Increasing_Array.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=24,25 "Built target CSES_Increasing_Array"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=26,27 "Built target CSES_Increasing_Array"
 .PHONY : CMakeFiles/CSES_Increasing_Array.dir/all
 
 # Build rule for subdir invocation for target.
@@ -173,7 +177,7 @@ CMakeFiles/CSES_Increasing_Array.dir/clean:
 CMakeFiles/CSES_Number_Spiral.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Number_Spiral.dir\build.make CMakeFiles/CSES_Number_Spiral.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=28,29 "Built target CSES_Number_Spiral"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=30,31 "Built target CSES_Number_Spiral"
 .PHONY : CMakeFiles/CSES_Number_Spiral.dir/all
 
 # Build rule for subdir invocation for target.
@@ -221,13 +225,40 @@ CMakeFiles/CF_Planet_Lapituletti.dir/clean:
 .PHONY : CMakeFiles/CF_Planet_Lapituletti.dir/clean
 
 #=============================================================================
+# Target rules for target CMakeFiles/CSES_Tower_of_Hanoi.dir
+
+# All Build rule for target.
+CMakeFiles/CSES_Tower_of_Hanoi.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=36,37 "Built target CSES_Tower_of_Hanoi"
+.PHONY : CMakeFiles/CSES_Tower_of_Hanoi.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CSES_Tower_of_Hanoi.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\CPP Contest\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CSES_Tower_of_Hanoi.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\CPP Contest\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/CSES_Tower_of_Hanoi.dir/rule
+
+# Convenience name for target.
+CSES_Tower_of_Hanoi: CMakeFiles/CSES_Tower_of_Hanoi.dir/rule
+
+.PHONY : CSES_Tower_of_Hanoi
+
+# clean rule for target.
+CMakeFiles/CSES_Tower_of_Hanoi.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Tower_of_Hanoi.dir\build.make CMakeFiles/CSES_Tower_of_Hanoi.dir/clean
+.PHONY : CMakeFiles/CSES_Tower_of_Hanoi.dir/clean
+
+#=============================================================================
 # Target rules for target CMakeFiles/CSES_Weird_Algorithm.dir
 
 # All Build rule for target.
 CMakeFiles/CSES_Weird_Algorithm.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Weird_Algorithm.dir\build.make CMakeFiles/CSES_Weird_Algorithm.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=40,41 "Built target CSES_Weird_Algorithm"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=44,45 "Built target CSES_Weird_Algorithm"
 .PHONY : CMakeFiles/CSES_Weird_Algorithm.dir/all
 
 # Build rule for subdir invocation for target.
@@ -254,7 +285,7 @@ CMakeFiles/CSES_Weird_Algorithm.dir/clean:
 CMakeFiles/CSES_Missing_Number.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Missing_Number.dir\build.make CMakeFiles/CSES_Missing_Number.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=26,27 "Built target CSES_Missing_Number"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=28,29 "Built target CSES_Missing_Number"
 .PHONY : CMakeFiles/CSES_Missing_Number.dir/all
 
 # Build rule for subdir invocation for target.
@@ -281,7 +312,7 @@ CMakeFiles/CSES_Missing_Number.dir/clean:
 CMakeFiles/CSES_Repitations.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Repitations.dir\build.make CMakeFiles/CSES_Repitations.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=32,33 "Built target CSES_Repitations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=34,35 "Built target CSES_Repitations"
 .PHONY : CMakeFiles/CSES_Repitations.dir/all
 
 # Build rule for subdir invocation for target.
@@ -308,7 +339,7 @@ CMakeFiles/CSES_Repitations.dir/clean:
 CMakeFiles/CSES_Permutations.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Permutations.dir\build.make CMakeFiles/CSES_Permutations.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=30,31 "Built target CSES_Permutations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=32,33 "Built target CSES_Permutations"
 .PHONY : CMakeFiles/CSES_Permutations.dir/all
 
 # Build rule for subdir invocation for target.
@@ -335,7 +366,7 @@ CMakeFiles/CSES_Permutations.dir/clean:
 CMakeFiles/CSES_Two_Knights.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Knights.dir\build.make CMakeFiles/CSES_Two_Knights.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=36,37 "Built target CSES_Two_Knights"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=40,41 "Built target CSES_Two_Knights"
 .PHONY : CMakeFiles/CSES_Two_Knights.dir/all
 
 # Build rule for subdir invocation for target.
@@ -362,7 +393,7 @@ CMakeFiles/CSES_Two_Knights.dir/clean:
 CMakeFiles/CSES_Two_Sets.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Two_Sets.dir\build.make CMakeFiles/CSES_Two_Sets.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=38,39 "Built target CSES_Two_Sets"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=42,43 "Built target CSES_Two_Sets"
 .PHONY : CMakeFiles/CSES_Two_Sets.dir/all
 
 # Build rule for subdir invocation for target.
@@ -389,7 +420,7 @@ CMakeFiles/CSES_Two_Sets.dir/clean:
 CMakeFiles/CSES_Bit_Strings.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Bit_Strings.dir\build.make CMakeFiles/CSES_Bit_Strings.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=18,19 "Built target CSES_Bit_Strings"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=20,21 "Built target CSES_Bit_Strings"
 .PHONY : CMakeFiles/CSES_Bit_Strings.dir/all
 
 # Build rule for subdir invocation for target.
@@ -416,7 +447,7 @@ CMakeFiles/CSES_Bit_Strings.dir/clean:
 CMakeFiles/CSES_Trailing_Zeros.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Trailing_Zeros.dir\build.make CMakeFiles/CSES_Trailing_Zeros.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=34,35 "Built target CSES_Trailing_Zeros"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=38,39 "Built target CSES_Trailing_Zeros"
 .PHONY : CMakeFiles/CSES_Trailing_Zeros.dir/all
 
 # Build rule for subdir invocation for target.
@@ -443,7 +474,7 @@ CMakeFiles/CSES_Trailing_Zeros.dir/clean:
 CMakeFiles/CSES_Coin_Piles.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Coin_Piles.dir\build.make CMakeFiles/CSES_Coin_Piles.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=20,21 "Built target CSES_Coin_Piles"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=22,23 "Built target CSES_Coin_Piles"
 .PHONY : CMakeFiles/CSES_Coin_Piles.dir/all
 
 # Build rule for subdir invocation for target.
@@ -470,7 +501,7 @@ CMakeFiles/CSES_Coin_Piles.dir/clean:
 CMakeFiles/CSES_Gray_Code.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=22,23 "Built target CSES_Gray_Code"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=24,25 "Built target CSES_Gray_Code"
 .PHONY : CMakeFiles/CSES_Gray_Code.dir/all
 
 # Build rule for subdir invocation for target.
@@ -489,6 +520,33 @@ CSES_Gray_Code: CMakeFiles/CSES_Gray_Code.dir/rule
 CMakeFiles/CSES_Gray_Code.dir/clean:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\CSES_Gray_Code.dir\build.make CMakeFiles/CSES_Gray_Code.dir/clean
 .PHONY : CMakeFiles/CSES_Gray_Code.dir/clean
+
+#=============================================================================
+# Target rules for target CMakeFiles/CodeJam_Moons_and_Umbrellas.dir
+
+# All Build rule for target.
+CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/all:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/depend
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/build
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="F:\CPP Contest\cmake-build-debug\CMakeFiles" --progress-num=46,47 "Built target CodeJam_Moons_and_Umbrellas"
+.PHONY : CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/all
+
+# Build rule for subdir invocation for target.
+CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/rule: cmake_check_build_system
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\CPP Contest\cmake-build-debug\CMakeFiles" 2
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/all
+	$(CMAKE_COMMAND) -E cmake_progress_start "F:\CPP Contest\cmake-build-debug\CMakeFiles" 0
+.PHONY : CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/rule
+
+# Convenience name for target.
+CodeJam_Moons_and_Umbrellas: CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/rule
+
+.PHONY : CodeJam_Moons_and_Umbrellas
+
+# clean rule for target.
+CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/clean:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\CodeJam_Moons_and_Umbrellas.dir\build.make CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/clean
+.PHONY : CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/clean
 
 #=============================================================================
 # Special targets to cleanup operation of make.

@@ -13,10 +13,12 @@ set(CMAKE_DEPENDS_CHECK_CXX
   "F:/CPP Contest/CSES_Number_Spiral.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Number_Spiral.cpp.obj"
   "F:/CPP Contest/CSES_Permutations.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Permutations.cpp.obj"
   "F:/CPP Contest/CSES_Repitations.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Repitations.cpp.obj"
+  "F:/CPP Contest/CSES_Tower_of_Hanoi.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Tower_of_Hanoi.cpp.obj"
   "F:/CPP Contest/CSES_Trailing_Zeros.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Trailing_Zeros.cpp.obj"
   "F:/CPP Contest/CSES_Two_Knights.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Two_Knights.cpp.obj"
   "F:/CPP Contest/CSES_Two_Sets.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Two_Sets.cpp.obj"
   "F:/CPP Contest/CSES_Weird_Algorithm.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CSES_Weird_Algorithm.cpp.obj"
+  "F:/CPP Contest/CodeJam_Moons_and_Umbrellas.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/CodeJam_Moons_and_Umbrellas.cpp.obj"
   "F:/CPP Contest/main.cpp" "F:/CPP Contest/cmake-build-debug/CMakeFiles/CPP_Contest.dir/main.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

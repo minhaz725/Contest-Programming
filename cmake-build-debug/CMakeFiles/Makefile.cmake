@@ -57,6 +57,7 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/CSES_Increasing_Array.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Number_Spiral.dir/DependInfo.cmake"
   "CMakeFiles/CF_Planet_Lapituletti.dir/DependInfo.cmake"
+  "CMakeFiles/CSES_Tower_of_Hanoi.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Weird_Algorithm.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Missing_Number.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Repitations.dir/DependInfo.cmake"
@@ -67,4 +68,5 @@ set(CMAKE_DEPEND_INFO_FILES
   "CMakeFiles/CSES_Trailing_Zeros.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Coin_Piles.dir/DependInfo.cmake"
   "CMakeFiles/CSES_Gray_Code.dir/DependInfo.cmake"
+  "CMakeFiles/CodeJam_Moons_and_Umbrellas.dir/DependInfo.cmake"
   )
